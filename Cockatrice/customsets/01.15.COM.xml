@@ -1,0 +1,419 @@
+<?xml version="1.0" ?><cockatrice_carddatabase version="3">	
+	<sets>		
+		<set>			
+			<name>COM</name>			
+			<longname>Commander Buddies</longname>			
+			<settype>Expansion</settype>			
+			<releasedate>2020-12-30</releasedate>			
+		</set>		
+	</sets>	
+	<cards>				
+		<card>			
+			<name>Ellysia Elite Captain</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2GG</manacost>			
+			<cmc>4</cmc>			
+			<color>G</color>			
+			<type>Planeswalker</type>			
+			<pt>4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Lot's of text.  No way I'm writing it all.</text>			
+		</card>	
+<card>			
+			<name>Iwato</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1RRRR</manacost>			
+			<cmc>5</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Be a Big Boi: Win</text>			
+		</card>
+<card>			
+			<name>Jangle Flaccid King</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>2RB</manacost>			
+			<cmc>4</cmc>			
+			<color>RB</color>			
+			<type>Legendary Creature</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Win big go home</text>			
+		</card>
+<card>			
+			<name>Jo-Ja Underworld Bane</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>RW</manacost>			
+			<cmc>2</cmc>			
+			<color>RW</color>			
+			<type>Legendary Creature</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Be a Scary Dude</text>			
+		</card>
+<card>			
+			<name>Orzahal the Demon Blade</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1WBR</manacost>			
+			<cmc>4</cmc>			
+			<color>WBR</color>			
+			<type>Legendary Artifact Creature</type>			
+			<pt>6/6</pt>			
+			<tablerow>2</tablerow>			
+			<text>Yikes</text>			
+		</card>
+<card>			
+			<name>Rejected Jester</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WWUUGG</manacost>			
+			<cmc>8</cmc>			
+			<color>WUG</color>			
+			<type>Legendary Creature</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>This card is stupid and if you play it you're a coward.</text>			
+		</card>
+<card>			
+			<name>Snowblast Primordial</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WWW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Snow Bro</text>			
+		</card>
+<card>			
+			<name>Tsuyo and Shina</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UG</manacost>			
+			<cmc>3</cmc>			
+			<color>UG</color>			
+			<type>Legendary Creature</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Big Girl No Like </text>			
+		</card>	
+<card>			
+			<name>Twysler Warscorned Sentinel</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>GGUU</manacost>			
+			<cmc>4</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Tyler and Michael are sitting in a tree, k i s s i n g</text>			
+		</card>		
+<card>			
+			<name>Gilsea Descendent Hero</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4BB</manacost>			
+			<cmc>6</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature - Human Rogue</type>			
+			<pt>3/6</pt>			
+			<tablerow>2</tablerow>			
+			<text> Deathtouch girl</text>			
+		</card>
+<card>			
+			<name>Jinsa Full of Fury</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BRGW</manacost>			
+			<cmc>4</cmc>			
+			<color>BRGW</color>			
+			<type>Legendary Creature - Human Cleric</type>			
+			<pt>3/1</pt>			
+			<tablerow>2</tablerow>			
+			<text> Wow she is kinda hot ngl</text>			
+		</card>	
+<card>			
+			<name>Ib Nixus Rescindent</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BGW</manacost>			
+			<cmc>3</cmc>			
+			<color>BGW</color>			
+			<type>Legendary Creature - Dragon Elder</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> This is a big scary Dragon, but it isn't as scary as Tyler after burritos</text>			
+		</card>		
+<card>			
+			<name>Lunari the Morning Sun</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1GU</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature - Bird Faerie</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Triggerd ability (TRIGGEREDDD)</text>			
+		</card>	
+<card>			
+			<name>Krinos Forged God</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>RGW</manacost>			
+			<cmc>3</cmc>			
+			<color>RGW</color>			
+			<type>Legendary Planeswalker</type>			
+			<pt>0</pt>			
+			<tablerow>2</tablerow>			
+			<text> Lets be honest if this doesn't break the game nothing will</text>			
+		</card>	
+<card>			
+			<name>Zurelia Dark Temptress</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature - Demon</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text> Swiggity Swooty, ur commander is my booty</text>			
+		</card>	
+<card>			
+			<name>Xydril the Augmentor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5UR</manacost>			
+			<cmc>7</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature - Human Wizard</type>			
+			<pt>3/7</pt>			
+			<tablerow>2</tablerow>			
+			<text> He's cold in the streets, he's hot in the sheets.  Xydril.  He's the perfect man.</text>			
+		</card>
+<card>			
+			<name>Jerda Most Lethal</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BR</manacost>			
+			<cmc>5</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature - Human Warrior</type>			
+			<pt>6/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> Someone raised him well.  He comes from good crop.</text>			
+		</card>
+<card>			
+			<name>Doubleday Reflector</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UR</manacost>			
+			<cmc>3</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature - Reflection</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
+		</card>	
+<card>			
+			<name>Phyrexian Hatchery</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2GB</manacost>			
+			<cmc>4</cmc>			
+			<color>Gb</color>			
+			<type>Legendary Creature - Zombie Egg</type>			
+			<pt>0/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>eww ewww ewwwwww</text>			
+		</card>
+<card>			
+			<name>Sintel Exultant and Bellicose</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>8</manacost>			
+			<cmc>8</cmc>			
+			<color>RGW</color>			
+			<type>Legendary Creature - Dinosaur</type>			
+			<pt>6/7</pt>			
+			<tablerow>2</tablerow>			
+			<text>He'a big boy. In layman terms, hes loud and annoying.</text>			
+		</card>
+<card>			
+			<name>Antis Wall of Text</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Legendary Land - Plains Island Swamp Mountain Forest</type>			
+			<pt>0</pt>			
+			<tablerow>2</tablerow>			
+			<text> heh</text>			
+		</card>
+<card>			
+			<name>Assassin Girl</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature - Human Assassin</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text> She puts the butt in assassin. It's the last thing you'll see before you die.</text>		
+		</card>
+<card>			
+			<name>Myrim Juggler</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>WUBRG</manacost>			
+			<cmc>5</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature - Shapeshifter</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> WUBRG</text>			
+		</card>
+<card>			
+			<name>Avram Flickering Light</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BW</manacost>			
+			<cmc>2</cmc>			
+			<color>BW</color>			
+			<type>Legendary Creature - Dragon Spirit</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Flicker in a body I guess.  He looks cool, it ur into glo stick bois</text>			
+		</card>
+<card>			
+			<name>Beeble Feeble Torchbearer</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>R</manacost>			
+			<cmc>R</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature - Goblin</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Lets be honest if magic were real youd never beat the goblins.  Theyre too powerful.  Kamikaze little bastrds.</text>			
+		</card>
+<card>			
+			<name>Creature from the Abyss</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3GUB</manacost>			
+			<cmc>6</cmc>			
+			<color>GUB</color>			
+			<type>Legendary Creature - Horror</type>			
+			<pt>6/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>I forgot what delve is. There's probably a joke here somewhere. *Shuffles papers* *ahem* this fkn joke will be the delve of me.</text>			
+		</card>
+<card>			
+			<name>Eater of Worlds</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WBR</manacost>			
+			<cmc>5</cmc>			
+			<color>WBR</color>			
+			<type>Legendary Creature - Hellion</type>			
+			<pt>6/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> Yeah im still bigger where it counts ;) talkin about my huge throbbing nose</text>			
+		</card>
+<card>			
+			<name>Haunt of Innistrad</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3R/U/B</manacost>			
+			<cmc>4</cmc>			
+			<color>RUB</color>			
+			<type>Legendary Creature - Shapeshifter</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text> No u. No u.</text>			
+		</card>
+<card>			
+			<name>Illexiad Unbound</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1WB</manacost>			
+			<cmc>3</cmc>			
+			<color>WB</color>			
+			<type>Legendary Creature - Zombie Warrior</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>That armor is mega impractical but im a monkeys uncle if it isnt wicked good lookin</text>			
+		</card>
+<card>			
+			<name>Kalhelm Legendary Tactician</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2RW</manacost>			
+			<cmc>4</cmc>			
+			<color>RW</color>			
+			<type>Legendary Creature - Skeleton Warrior</type>			
+			<pt>3/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> Pew Pew</text>			
+		</card>
+<card>			
+			<name>Miriam Enchantress</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3GW</manacost>			
+			<cmc>5</cmc>			
+			<color>GW</color>			
+			<type>Legendary Creature - Human Druid</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Enchantments I guess?  I can't pay attention. Too distracted by the bust on this broad. Sorry tilr, ur the one who picked the art</text>			
+		</card>
+<card>			
+			<name>Myth of the Shadow Lord</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>XBB</manacost>			
+			<cmc>2</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature - Shade</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text> Spooky dooky dude.  I hope you forgot your sunblock, this guy has got you covered instead.</text>			
+		</card>
+<card>			
+			<name>Sira the Unstopping Wave</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>U</manacost>			
+			<cmc>1</cmc>			
+			<color>U</color>			
+			<type>Legendary Creature - Merfolk Zombie</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Glub</text>			
+		</card>
+<card>			
+			<name>Sister Adley</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1W</manacost>			
+			<cmc>2</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature - Human Cleric</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Remember that Grizzly Bears is a 3/3?  This priestess, who I assume just up and joined the clergy right out of highschool and took an oath of sobriety and abstinence, can apparently tag team herself to take down a bear. Probably just overpowered from that wicked looking headress she's wearing.  No, you need flavor text.</text>			
+		</card>
+<card>			
+			<name>The Elder Deepfiend</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>7UB</manacost>			
+			<cmc>9</cmc>			
+			<color>UB</color>			
+			<type>Legendary Creature - Leviathan</type>			
+			<pt>9/9</pt>			
+			<tablerow>2</tablerow>			
+			<text>Glub Glub Btchs</text>			
+		</card>
+<card>			
+			<name>The Plentiful Eidolon</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2G</manacost>			
+			<cmc>3</cmc>			
+			<color>G</color>			
+			<type>Legendary Enchantment Creature - Dragon</type>			
+			<pt>1/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> For all you red green color blind people unfortunate enough to play magic with your condition, let me clarify this card. It's more green than you will ever see.</text>			
+		</card>
+<card>			
+			<name>Doubleday Reflector</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UR</manacost>			
+			<cmc>3</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature - Reflection</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
+		</card>
+	</cards>	
+</cockatrice_carddatabase>
