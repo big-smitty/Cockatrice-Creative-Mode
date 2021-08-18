@@ -5,6 +5,6 @@ Steps to use:
 2. Go back two directories, first to 'pics' then wherever 'pics' is stored
 3. Clone this repository into that directory
 4. In Git Bash, use these commands:
-    $ git add .
-    $ git commit -m "[commit message]"
-    $ git push origin master
+a. $ git add .
+b. $ git commit -m "[commit message]"
+c. $ git push origin master
