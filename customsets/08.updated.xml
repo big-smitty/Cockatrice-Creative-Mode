@@ -1,0 +1,441 @@
+<?xml version="1.0" ?><cockatrice_carddatabase version="3">	
+	<sets>		
+		<set>			
+			<name>NOA</name>			
+			<longname>Noah Set</longname>			
+			<settype>Expansion</settype>			
+			<releasedate>2017-09-29</releasedate>			
+		</set>		
+	</sets>	
+	<cards>				
+		<card>			
+			<name>Drag to Hell</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>1B</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<card>			
+			<name>Scratcher the Lone Cryptkeeper</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>BUG</manacost>			
+			<cmc>3</cmc>			
+			<color>BUG</color>			
+			<type>Legendary Creature - Cat</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Undead Betrayer</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Zombie</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Become Encrusted</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<card>			
+			<name>Blessing from a Wretch</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Enchantment</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Doom of the Shrooms</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Fledgeling Nightmare</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Nightmare</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<cards>				
+		<card>			
+			<name>Gasping Slag</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>2RW</manacost>			
+			<cmc>4</cmc>			
+			<color>RW</color>			
+			<type>Creature - Elemental</type>			
+			<pt>1/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<card>			
+			<name>Goblin Bazaar</name>			
+			<set picURL="" rarity="Uncommon">NOA</set>			
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color>BRG</color>			
+			<type>Land</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Merciful Fury</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>3WW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Creature - Angel</type>			
+			<pt>2/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Expendable Mutt</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>R</color>			
+			<type>Crreature - Goblin Kobold</type>			
+			<pt>0/1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<card>			
+			<name>Goblin Demoman</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Goblin</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Sphere of the Magi</name>			
+			<set picURL="" rarity="Uncommon">NOA</set>			
+			<manacost>2RU</manacost>			
+			<cmc>4</cmc>			
+			<color>RU</color>			
+			<type>Instant</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Absorb Essense</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>		
+<card>			
+			<name>Fenzi Statue</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Golem</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Warp Reality</name>			
+			<set picURL="" rarity="Rare">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>	
+<card>			
+			<name>Lady Avangela</name>			
+			<set picURL="" rarity="Uncommon">NOA</set>			
+			<manacost>2W</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature - Human Cleric</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Batterhorn Truncheon</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Artifact</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Join the Party</name>			
+			<set picURL="" rarity="Rare">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Outcrop Sentry</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Vampire Warrior</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Packsnail Wizard</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Snail Wizard</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Sunrise Exile</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Human</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Jipling Familiar</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Elemental</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Lead the Charge</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Reminisce the Old Days</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>G</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Opportunity to Explore</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Close Encounter</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Instant</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Exert Close Influence</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Instant</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Magus of the Broken Future</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Human Wizard</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Skyscribing Bed</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Artifact</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Sporific Bombshell</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Artifact</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Leonin Sky Standard</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Enchantment</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Femeref Wizard</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Human Wizard</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Bigol Crab</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>2U</manacost>			
+			<cmc>3</cmc>			
+			<color>U</color>			
+			<type>Creature - Crab</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Protection from Blue</text>			
+		</card>
+<card>			
+			<name>Lieutenants of the Outer Guard</name>			
+			<set picURL="" rarity="Common">NOA</set>			
+			<manacost>4U</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Creature - Human Soldier</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Nira, Deepchannel Mentor</name>			
+			<set picURL="" rarity="Mythic">NOA</set>			
+			<manacost>2UBR</manacost>			
+			<cmc>5</cmc>			
+			<color>URB</color>			
+			<type>Legendary Creature - Human Wizard</type>			
+			<pt>6/5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Djowan, With Eyes Closed</name>			
+			<set picURL="" rarity="Mythic">NOA</set>			
+			<manacost>3UB</manacost>			
+			<cmc>5</cmc>			
+			<color>UB</color>			
+			<type>Legendary Creature - Human Wizard</type>			
+			<pt>1/5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Mikausei, Pure and Unfallen</name>			
+			<set picURL="" rarity="Mythic">NOA</set>			
+			<manacost>3WW</manacost>			
+			<cmc>5</cmc>			
+			<color>WBU</color>			
+			<type>Legendary Creature - Angel</type>			
+			<pt>5/3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Yoboi, Born of Carapace</name>			
+			<set picURL="" rarity="Mythic">NOA</set>			
+			<manacost>2BUG</manacost>			
+			<cmc>5</cmc>			
+			<color>BUG</color>			
+			<type>Legendary Creature - Crab</type>			
+			<pt>4/8</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+</cockatrice_carddatabase>

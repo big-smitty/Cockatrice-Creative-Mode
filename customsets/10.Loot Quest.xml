@@ -1,0 +1,680 @@
+<?xml version="1.0" ?><cockatrice_carddatabase version="3">	
+	<sets>		
+		<set>			
+			<name>LQ1</name>			
+			<longname>Loot Quest</longname>			
+			<settype>Expansion</settype>			
+			<releasedate>2017-09-29</releasedate>			
+		</set>		
+	</sets>	
+	<cards>				
+		<card>			
+			<name>Adventurers Gathering</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Event</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Bandit Invasion</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Event</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Public Execution</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Event</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Tax Day</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Event</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>TIME WARP</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Event</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Coin Box</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Health Potion</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Lucky Charm</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Poison Tipping</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Rugged Gauntlets</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Sturdy Armor</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Town Map</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Work Gloves</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>KINGS CROWN</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>SCROLL OF KNOWLEDGE</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Item</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Basilisk</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>2-2-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Big Dinosaur</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>3-3-3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Blob</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-7-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Cute Cub</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>3-1-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Dragon Welp</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-4-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Enchanted Bunny</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>2-1-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Fancy Cat</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>3-1-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Goblin Thief</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>2-4-3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Rock Golem</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-5-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Hired Mercenary</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>3-5-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Insect Swarm</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-3-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Minotard</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-4-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Raging Boar</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>2-3-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Troll</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>1-5-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Wall Monster</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>0-10-1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Dancing Zombie</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Monster</type>			
+			<pt>2-3-2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>ARCHMAGE</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Monster</type>			
+			<pt>1-5-4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>BAD CHICKEN</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Monster</type>			
+			<pt>1-5-5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>DOPPELGANGER</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Monster</type>			
+			<pt>3-8-5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>VAMPIRE LORD</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Monster</type>			
+			<pt>1-4-4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Arcane Blast</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Cripple</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Fireball</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Greed Bolt</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Grevious Wounds</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Polymorph</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Trickery</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Unsummon</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>DRAIN</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>MIND CONTROL</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Spell</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Ballista</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Battle Axe</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Blunderbuss</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Crystal Sword</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>6</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Flail</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Gold-Tipped Spear</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Iron Sword</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Javelin</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Longbow</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Saw</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Shiv</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>1</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Shuriken</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>2</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>SOUL REAPER</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Legendary Weapon</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>DRAGONS CLAW</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>3</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>WARHAMMER</name>			
+			<set picURL="" rarity="Common">LQ1</set>	
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color></color>			
+			<type>Weapon</type>			
+			<pt>5</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+
+
+
+
+
+
+
+
+
+

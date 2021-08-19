@@ -1,0 +1,1298 @@
+<?xml version="1.0" ?><cockatrice_carddatabase version="3">	
+	<sets>		
+		<set>			
+			<name>VOI</name>			
+			<longname>Void Magic</longname>			
+			<settype>Expansion</settype>			
+			<releasedate>2020-11-28</releasedate>			
+		</set>		
+	</sets>	
+	<cards>				
+		<card>			
+			<name>Chamber of the Unseen</name>			
+			<set picURL="" rarity="Rare">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Dark Matter</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Extra Storage</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Mana Safe</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Monolith</name>			
+			<set picURL="" rarity="Rare">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Staff of Suppression</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Stoneturned Breezeblock</name>			
+			<set picURL="" rarity="Rare">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Cyclone Druid</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact Creature — Druid</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+			<card>			
+			<name>Record of the Ancients</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact — Equipment</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Rog</name>			
+			<set picURL="" rarity="Rare">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Artifact — Equipment</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Forest</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Basic Land — Forest</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Mountain</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Basic Land — Mountain</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Island</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Basic Land — Island</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+		<card>			
+			<name>Swamp</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Basic Land — Swamp</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Plains</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Basic Land — Plains</type>		
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+			<name>Mighty Angel</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>		
+			<manacost>3RW</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Angel</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Blazing Steed</name>			
+			<set picURL="" rarity="Comommon">VOI</set>		
+			<manacost>R</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Beast</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Camoflouge Baloth</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Beast</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Rampaging Behemoth</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Beast</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Rotting Boar</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Beast</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Thickweed Gouger</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Angel</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Speeding Courier</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Angel</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Blerg Titan</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Angel</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Cunning Blerg</name>			
+			<set picURL="" rarity="Common">VOI</set>		
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature — Angel</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+<card>			
+			<name>Foreshadowing Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Poisonous Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>	
+	<card>			
+			<name>Sprinting Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Suffocating Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>	
+<card>			
+			<name>Swiftness Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Togglodyte Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>	
+	<card>			
+			<name>Consuming Blerg</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>	
+<card>			
+			<name>Champions Familiar</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Demon Knight</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Void Dragon</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Brutal Ravager</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Burning Essence</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Hell Lords Servant</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Spewning Blaze</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Wild Tempest</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Wildthorn Elemental</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+<card>			
+			<name>Natures Annihilator</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Æther Spellcaster</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Aether Spellcaster</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Flamebreather Sorcerer</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Primal Shaman</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Swampdwelling Alchemist</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Temple Mystic</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>	
+			<card>			
+			<name>Supreme Gardener</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Elvish Recruiter</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Wing Faerie</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Opal Guardian</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Sickly Gargantuan</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Sync Titan</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Anti-oni Warrior</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Gluttonous Goblin</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Goblin Ravager</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Beast Protector</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Cunning Scavanger</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Double Agent</name>			
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Priestess of Purification</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Trickster Mime</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Book Keeper</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Diligent Student</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Knight of Redemption</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Servant of Arbathus</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Templar of the Gone</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Allegience Manipulator</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Crusader of Justice</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Smite Guardian</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Trainee of the Swordsman</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Battle Master</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Expendable Warrior</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Strikeman</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Armageddon Firebreather</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Priestess of Purification</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Blessed Chronologist</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Wizard of the Wander</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Illusionist Expert</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Quallelow</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Aquatic Spellsnatcher</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Merfolk Wrangler</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Voidmancer</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Minion</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Alter Hound</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Artificial Crisis</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Banishing Slasher</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Essence of the Void</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Grey Render</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Horror</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Unconnected Conscience</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Void</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Goliath Star-razer</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Brutal Hordechief</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Typhoid Rats</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Dancing Trickster</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Venomous Boa</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Serpent Master</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Soul Reaper</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Epic of Awe</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Sneaking Witch</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Dancing Snake-mage</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Renowned Forest-mage</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Leech of the Haunt</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Unholy Pacifist</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Zombie Giant</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Creature</type>	
+		</card>
+		<card>			
+			<name>Cryptic Necromancy</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Enchantresss Inspiration</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Garden of the Wilds</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Holy Cleansing</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Holy Constraint</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Nausea</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Pained Experience</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Shadows of the Deep</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Steed Rush</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Surge of Adrenaline</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Tome of the Order</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Blessing of Might</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Entangle</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Ferocity</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Fire Resistance</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Shadowlings Tendrils</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>War Paint</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Crippling Burdon</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Unholy Grasp</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Aspect of Wilderness</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Deathly Plague</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Flamebreathers Inspiration</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Knowledge Field</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Pillar of Conflux</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Enchantment</type>	
+		</card>
+		<card>			
+			<name>Aggressive Flurry</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Arson</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Back to the Books</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Banish</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Boiling Burn</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Bring to Nature</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Burning Claws</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Cancel</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Clueless Path</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Corruption</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Mercurial Extract</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Denial</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Denial of Passage</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Disenchanting Surge</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Dispose</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Distort</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Distracting Hex</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Exchange</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Exemplify</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Exile Decree</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Flameblast</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Glory Tribe</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Heros Triumph</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Holding Ground</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Hopeless Ending</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Inspired Fury</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Laboratory Magic</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Lava Strike</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Lightning Volley</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Misfortune of the Frontlines</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Natural Endeavor</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Natures Denial</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Natures Refutation</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Occult Blast</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Peer into the Tomb</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Prayerful Discipline</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Prevent</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Prioritize</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Proposed Negotiation</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Purge</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Sacrilege Sacrifice</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Spell Burn</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Swift Destruction</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Tactical Insertion</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Vial of Darkness</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Withdrawal</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Instant</type>	
+		</card>
+		<card>			
+			<name>Den of Collaboration</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Land</type>	
+		</card>
+		<card>			
+			<name>Gale to the Beyond</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Land</type>	
+		</card>
+		<card>			
+			<name>Paradise Retreat</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Land</type>	
+		</card>
+		<card>			
+			<name>Portal to Absence</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Land</type>	
+		</card>
+		<card>			
+			<name>Glurboig Alpha Blerg</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Creature</type>	
+		</card>
+		<card>			
+			<name>Prosh World-Glory</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Creature</type>	
+		</card>
+		<card>			
+			<name>Angelic Prophet</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Creature</type>	
+		</card>
+		<card>			
+			<name>Arbathus The Emptiness Within All</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Creature</type>	
+		</card>
+		<card>			
+			<name>Black Hole</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Land</type>	
+		</card>
+		<card>			
+			<name>Darius Templar of Knowledge</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<loyalty>4</loyalty>
+			<type>Legendary Planeswalker</type>	
+		</card>
+		<card>			
+			<name>Prosh the Elder Golem</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Planeswalker</type>
+			<loyalty>3</loyalty>	
+		</card>
+		<card>			
+			<name>Ryker Bane of Knowledge</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Planeswalker</type>
+			<loyalty>3</loyalty>	
+		</card>
+		<card>			
+			<name>Salina Bringer of Hope</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Planeswalker</type>
+			<loyalty>4</loyalty>	
+		</card>
+		<card>			
+			<name>Shadowling the Imager</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Legendary Planeswalker</type>
+			<loyalty>1</loyalty>	
+		</card>
+		<card>			
+			<name>And Nothing</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Armed Rush</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Awaken the Beast</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Call to the Wilderness</name>
+			<set picURL="" rarity="Mythic Rare">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Channel Knowledge</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Discovery</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Eureka</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Fate Foretold</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Flicker</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Foretell</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Global Cleansing</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Gods Gift</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Justified Smite</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Light the Unseeable</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Obliterating Firestorm</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Prayer to the True God</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Rain of Fire</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Rats for Bait</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Scorching Ray</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Shadowlings Shattering</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Fluttering of Skitterbugs</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Spider Nesting</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Spire of Remission</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Sudden Rebirth</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Synthetic Growth</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Tame the Beast</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>The Great Awakening</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Unhallowed Web</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Vigor of the Ancients</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Volcanic Blast</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Wrench from Sanity</name>
+			<set picURL="" rarity="Uncommon">VOI</set>
+			<type>Sorcery</type>	
+		</card>
+		<card>			
+			<name>Rip in the Ground</name>
+			<set picURL="" rarity="Common">VOI</set>
+			<type>Tribal Enchantment</type>	
+		</card>
+		<card>			
+			<name>Pass Into Nothing</name>
+			<set picURL="" rarity="Common">VOI</set>
+			<type>Tribal Instant</type>	
+		</card>
+		<card>			
+			<name>Exchange Knowledge</name>
+			<set picURL="" rarity="Unommon">VOI</set>
+			<type>Tribal Instant</type>	
+		</card>
+		<card>			
+			<name>Wipe from Existence</name>
+			<set picURL="" rarity="Common">VOI</set>
+			<type>Tribal Instant</type>	
+		</card>
+		<card>			
+			<name>Image of the Dragon</name>
+			<set picURL="" rarity="Rare">VOI</set>
+			<type>Tribal Sorcery</type>	
+		</card>
+		<card>			
+			<name>Chain</name>
+			<set picURL="" rarity="Unommon">VOI</set>
+			<type>Tribal Sorcery</type>	
+		</card>
+		<card>			
+			<name>Consumption</name>
+			<set picURL="" rarity="Common">VOI</set>
+			<type>Tribal Sorcery</type>	
+		</card>
+
+
+	</cards>	
+</cockatrice_carddatabase>
