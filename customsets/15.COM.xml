@@ -415,5 +415,136 @@
 			<tablerow>2</tablerow>			
 			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
 		</card>
+<card>			
+			<name>Fabricated Nature</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>CGU</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Lengendary Artifact Creature — Beast</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Vigilance
+When Fabricated Nature enters the battlefield, create a 3/3 Beast token for each time it has been cast form the command zone.</text>			
+		</card>	
+<card>			
+			<name>It That Lurks in the Deep</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>7UB</manacost>			
+			<cmc>9</cmc>			
+			<color>UB</color>			
+			<type>Lengendary Creature — Leviathan</type>			
+			<pt>9/9</pt>			
+			<tablerow>2</tablerow>			
+			<text>Islandwalk
+You may cast It That Lurks in the Deep or other creature cards exiled with it from exile.
+When It That Lurks in the Deep enters the battlefield, exile all other creatres until it leaves the battlefield.
+{U}, Sacrifice a land: You may put It That Lurks in the Deep from your hand or command zone into exile.</text>			
+		</card>	
+<card>			
+			<name>Elazar World Eater</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2RR</manacost>			
+			<cmc>4</cmc>			
+			<color>R</color>			
+			<type>Lengendary Creature — Elemental</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Haste, trample
+Whenever Elazar, World Eater attacks, sacrifice any number of lands, Elementals you control get +1/+1 until end of turn for each land sacrificed this way.</text>			
+		</card>	
+<card>			
+			<name>Joutu Spell-Swallower</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>5WU</manacost>			
+			<cmc>7</cmc>			
+			<color>WU</color>			
+			<type>Lengendary Creature — Bird Wizard</type>			
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Undaunted
+Indestructible, flying
+Whenever a player casts an instant or sorcery spell that targets only a single creature, copy that spell for each opponent. Those copies target Joutu, Spell-Swallower</text>			
+		</card>	
+<card>			
+			<name>Gort the Lonely</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Lengendary Creature — Goblin</type>			
+			<pt>0/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>{1}, {T}: Gort, the Lonely deals 1 damage to you.
+If a source you control deals damage that would reduce your life total to less than 1, you win the game.</text>			
+		</card>	
+<card>			
+			<name>Elmon the Envious</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>GUB</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Lengendary Creature — Elf</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Menace
+At the beginning of your end step, put a corruption counter on another target creature that doesn't have a corruption counter on it.
+Creatures with corruption counters on them are lands with"{T}:Add one mana of any type a land you control could produce."</text>			
+		</card>	
+<card>			
+			<name>Ankou Merciless Reaper</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4RB</manacost>			
+			<cmc>6</cmc>			
+			<color>RB</color>			
+			<type>Lengendary Planeswalker — Ankou</type>			
+			<pt></pt>
+			<loyalty>0</loyalty>			
+			<tablerow>2</tablerow>			
+			<text>Ankou, Merciless Reaper enters the battlefield with a number of loyalty ounters equal to your starting life total minus your life total.
+Ankou, Merciless Reaper can be your commander.
+-X:Each player mills X and loses X life.
+-11: Return target creature from a graveyard to the battlefield, it gains haste.
+-31: Create The End, a black legendary enchantment with Vanishing 3 and "When this permanent leaves the battlefield, choose a player, that player loses the game."</text>			
+		</card>	
+<card>			
+			<name>Herald of Intenet</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Lengendary Creature — Demon</type>			
+			<pt>4/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying
+Whenever Herald of Intent attacks, search your library for a card and put that card into your hand. Then shuffle your library.</text>			
+		</card>	
+<card>			
+			<name>Shimuari Dragon Soul</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>3UU</manacost>			
+			<cmc>5</cmc>			
+			<color>U</color>			
+			<type>Lengendary Planeswalker — Shimuari</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>
+			<loyalty>7</loyalty>			
+			<text>+3:Draw three cards, then put two cards from your hand on the bottom of your library.
++1:For each opponent, up to two target creatures they control get -2/-0 until your next turn.
+-12: You get an emblem with, "Whenever you draw a card, return target nonland permanent to its owner's hand." Then draw a card for each opponent.
+Creatures that attack Shimuari cannot be blocked.
+Shimuari, Dragon Soul can be your commander.</text>			
+		</card>	
+<card>			
+			<name>Captain Ronwell</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1W</manacost>			
+			<cmc>2</cmc>			
+			<color>W</color>			
+			<type>Lengendary Creature — Human Soldier</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Whenever one or more +1/+1 counters are placed on Captain Ronwell, create that many 1/1 white Soldier creature tokens. This ability can only trigger once per turn.</text>			
+		</card>	
 	</cards>	
 </cockatrice_carddatabase>
