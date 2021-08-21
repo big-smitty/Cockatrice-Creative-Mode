@@ -403,7 +403,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Opal Guardian</name>			
+			<name>Opaloid Guardian</name>			
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -563,7 +563,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Minion</name>
+			<name>Minion (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -593,7 +593,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Horror</name>
+			<name>Horror (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -603,7 +603,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Void</name>
+			<name>Void (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -613,7 +613,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Brutal Hordechief</name>
+			<name>Brutal Horde-chief</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -673,7 +673,7 @@
 			<type>Creature</type>	
 		</card>
 		<card>			
-			<name>Zombie Giant</name>
+			<name>Zombie Giant (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Creature</type>	
 		</card>
@@ -703,7 +703,7 @@
 			<type>Enchantment</type>	
 		</card>
 		<card>			
-			<name>Nausea</name>
+			<name>Nausea (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Enchantment</type>	
 		</card>
@@ -743,7 +743,7 @@
 			<type>Enchantment</type>	
 		</card>
 		<card>			
-			<name>Ferocity</name>
+			<name>Ferocious</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Enchantment</type>	
 		</card>
@@ -938,7 +938,7 @@
 			<type>Instant</type>	
 		</card>
 		<card>			
-			<name>Lightning Volley</name>
+			<name>Lightflash Volley</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Instant</type>	
 		</card>
@@ -993,7 +993,7 @@
 			<type>Instant</type>	
 		</card>
 		<card>			
-			<name>Purge</name>
+			<name>Purge Void</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Instant</type>	
 		</card>
@@ -1133,22 +1133,22 @@
 			<type>Sorcery</type>	
 		</card>
 		<card>			
-			<name>Eureka</name>
+			<name>Eureka (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Sorcery</type>	
 		</card>
 		<card>			
-			<name>Fate Foretold</name>
+			<name>Fated Foretold</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Sorcery</type>	
 		</card>
 		<card>			
-			<name>Flicker</name>
+			<name>Flicker (v)</name>
 			<set picURL="" rarity="Uncommon">VOI</set>
 			<type>Sorcery</type>	
 		</card>
 		<card>			
-			<name>Foretell</name>
+			<name>Foretell (v)</name>
 			<set picURL="" rarity="Rare">VOI</set>
 			<type>Sorcery</type>	
 		</card>
