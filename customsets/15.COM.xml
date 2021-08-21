@@ -53,6 +53,276 @@
 			<text>Be a Scary Dude</text>			
 		</card>
 <card>			
+			<name>Jin Ixis Psychic Dweller</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2UR</manacost>			
+			<cmc>4</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature</type>			
+			<pt>1/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>Almost as crazy as tyler about his girl buddies</text>			
+		</card>
+<card>			
+			<name>The First Head</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>You know, if its a guy chimera it technically has three heads</text>			
+		</card>
+<card>			
+			<name>The Second Head</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost></manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature Token</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Unless Chimeras are just built different. Could have four, you never know unless you care to check...</text>			
+		</card>
+<card>			
+			<name>Rotten Hidefinder</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3{G/P}{B/P}</manacost>			
+			<cmc>5</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>mangled and falling apart at the seams, just like my life and faith in my future</text>			
+		</card>
+<card>			
+			<name>Redwood Guardian</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4GG</manacost>			
+			<cmc>6</cmc>			
+			<color>G</color>			
+			<type>Legendary Creature</type>			
+			<pt>2/10</pt>			
+			<tablerow>2</tablerow>			
+			<text>You notice that it only has 1 ear? Weird flex but ok. Also, fun fact, the girls name is canonically named Antimony, from a comic called GunnerKrig</text>			
+		</card>
+<card>			
+			<name>Gravotrinic Nightmare</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UBR</manacost>			
+			<cmc>4</cmc>			
+			<color>UBR</color>			
+			<type>Legendary Creature</type>			
+			<pt>6/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>YOINK your booty is my looty</text>			
+		</card>
+<card>			
+			<name>End of the World Bunker</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>C</color>			
+			<type>Legendary Land</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Hide away, little commander. Here's a toast to new and ingenious cards</text>			
+		</card>
+<card>			
+			<name>Seismic Construction</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifacts</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>big stompy</text>			
+		</card>
+<card>			
+			<name>Superalloy Stabilizers</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>He ain't goin anywhere</text>			
+		</card>
+<card>			
+			<name>Atomic Momentum</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Z O O M</text>			
+		</card>
+<card>			
+			<name>Nanoreplicator Array</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Who's on first? Who's on First?</text>			
+		</card>
+<card>			
+			<name>Flare Generator</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Pocket Sand  (!)</text>			
+		</card>
+<card>			
+			<name>Gigantic Proportions</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Dont spend too much time thinking about how a modular enhancement makes the dude big</text>			
+		</card>
+<card>			
+			<name>Maria Modern Marvel</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact Creature</type>			
+			<pt>10/10</pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible, protection from non-artifact spells, abilities, and creatures.
+			When Maria, Modern Marvel enters the battlefield or attacks, you may attach any number of modular enhancements to it without paying their equip costs. </text>			
+		</card>
+<card>			
+			<name>Maria Astartian Mecha</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5WW</manacost>			
+			<cmc>7</cmc>			
+			<color>W</color>			
+			<type>Legendary Planeswalker</type>			
+			<pt>10</pt>			
+			<tablerow>2</tablerow>			
+			<text>+1 Add a loyalty counter to Maria, Astartian Mecha for each artifact you control.
+			-6 Create one of six Maria’s Modular enhancements, which are Legendary Equipment tokens.
+			-12 Create a legendary artifact creature token called Maria, Modern Marvel.
+			Maria, Astartian Mecha can be your commander.</text>			
+		</card>
+<card>			
+			<name>Raise and Train</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4BB</manacost>			
+			<cmc>6</cmc>			
+			<color>B</color>			
+			<type>Legendary Enchantment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Skip your untap and draw steps.
+If a creature you control would leave the battlefield, instead return it to the battlefield with a +1/+1 counter.</text>			
+		</card>
+<card>			
+			<name>Arwyl  Thomas</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1GG</manacost>			
+			<cmc>3</cmc>			
+			<color>G</color>			
+			<type>Legendary Planeswalker</type>			
+			<pt>3</pt>			
+			<tablerow>2</tablerow>			
+			<text>+2 Until the beginning of your next upkeep, non-land permanents you control with mana value 1 or less have indestructible and hexproof.
+			-4 Choose a non-land permanent with mana value 1 or less on the battlefield. Until your next upkeep, all non-land permanents you control with mana value 1 become copies of that permanent.
+			-8 Create a Legendary creature token called Thomas, Pretender that is a 1/1 human with mana value 1 and 
+has “T: Counter target spell or ability”
+			Arwyl  Thomas can be your commander.</text>			
+		</card>
+<card>			
+			<name>Thomas Pretender</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>1</cmc>			
+			<color>G</color>			
+			<type>Legendary Creature</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Thomas, Pretender has mana value 1.
+T: Counter target spell or ability.   </text>			
+		</card>
+<card>			
+			<name>Zhumbo-Boyi Bihgol Wanderer</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>GWU</manacost>			
+			<cmc>3</cmc>			
+			<color>GWU</color>			
+			<type>Legendary Creature</type>			
+			<pt>2/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>At the beginning of each player’s upkeep, put an exploration counter on a land that player controls. Then, that player gains control of and untaps all lands with exploration counters until end of turn.</text>			
+		</card>
+<card>			
+			<name>Scoria Shadow Lurking</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1BBBB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature</type>			
+			<pt>*/*</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying, shadow (This creature can block or be blocked by only creatures with shadow.)
+Chroma — Scoria’s power and toughness are equal to your devotion to black.</text>			
+		</card>
+<card>			
+			<name>The Beast of Ghrazen-Tor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5B</manacost>			
+			<cmc>6</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature</type>			
+			<pt>3/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>When The Beast of Ghrazen-Tor attacks, it gains indestructible until end of turn.
+1W, T: Target creature cannot be blocked this turn.
+1R, T: The Beast of Ghrazen-Tor deals 4 damage to any target.
+1U, T: Reveal a card in your hand. Until your next turn, that card has flash.
+1G, T: Target creature you control fights target creature you don’t control.</text>			
+		</card>
+<card>			
+			<name>Hor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1BB</manacost>			
+			<cmc>3</cmc>			
+			<color>BW</color>			
+			<type>Legendary Creature</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>When Hor enters the battlefield, sacrifice it unless it escaped.
+Whenever Hor enters the battlefield or attacks, destroy a creature, then you may draw a card.
+Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</text>			
+		</card>
+<card>			
+			<name>Jumpy Snorter of Elmers Glue</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>69L{E}{E}</manacost>			
+			<cmc>420</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text>If you can convince an opponent to let you activate this ability, roll a D100. If the roll is even or 69, you gain 420 life. Otherwise, you must get them a drink of their choice, or snort Elmer’s Glue ™</text>			
+		</card>
+<card>			
 			<name>Orzahal the Demon Blade</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>1WBR</manacost>			
