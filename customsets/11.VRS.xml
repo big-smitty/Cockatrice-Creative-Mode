@@ -8,7 +8,7 @@
 		</set>		
 	</sets>	
 	<cards>
-<card>			
+		<card>			
 			<name>Obelisk of Intellect</name>			
 			<set picURL="" rarity="Rare">VRS</set>			
 			<manacost>3</manacost>			
@@ -30,7 +30,7 @@
 			<type>Artifact</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
-			<text>Whenever a creature enters the battlefield under your control you may exile it. If you do, choose one-
+			<text>Whenever a creature enters the battlefield under your control you may exile it. If you do, choose oneâ€”
 			Destroy target creature.
 			Target player loses 3 life.
 			Return target creature from your graveyard to your hand.</text>			
@@ -66,7 +66,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature — Spirit</type>			
+			<type>Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -79,13 +79,26 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature — Spirit</type>			
+			<type>Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
 			At the beginning of your upkeep, put a -1/-1 counter on target creature.
 			Creatures you control have wither.</text>			
 		</card>
+<card>			
+			<name>Nevara, the Flying Terror</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature â€” Spirit</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>	
 <card>			
 			<name>Temporal Teleportation</name>			
 			<set picURL="" rarity="Rare">VRS</set>			
@@ -105,7 +118,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Enchantment — Aura</type>			
+			<type>Enchantment â€” Aura</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -118,7 +131,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature — Spirit</type>			
+			<type>Legendary Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -131,7 +144,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature — Spirit</type>			
+			<type>Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -144,7 +157,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature — Spirit</type>			
+			<type>Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -157,12 +170,24 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature — Spirit</type>			
+			<type>Creature â€” Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
 			At the beginning of your upkeep, put a -1/-1 counter on target creature.
 			Creatures you control have wither.</text>			
+		</card>
+	<card>			
+			<name>Raise and Train</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>4BB</manacost>			
+			<cmc>6</cmc>			
+			<color>B</color>			
+			<type>Legendary Enchantment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Skip your untap and draw steps.
+If a creature you control would leave the battlefield, instead return it to the battlefield with a +1/+1 counter.</text>			
 		</card>
 	</cards>	
 </cockatrice_carddatabase>
