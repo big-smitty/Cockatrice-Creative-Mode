@@ -7,29 +7,34 @@
 			<releasedate>2020-12-30</releasedate>			
 		</set>		
 	</sets>	
-	<cards>				
-		<card>			
-			<name>Ellysia Elite Captain</name>			
-			<set picURL="" rarity="Rare">COM</set>			
-			<manacost>2GG</manacost>			
-			<cmc>4</cmc>			
-			<color>G</color>			
-			<type>Legendary Planeswalker - Ellysia</type>			
-			<pt>4</pt>			
-			<tablerow>2</tablerow>			
-			<text>Lot's of text.  No way I'm writing it all.</text>			
-		</card>	
-<card>			
-			<name>Iwato</name>			
-			<set picURL="" rarity="Rare">COM</set>			
-			<manacost>1RRRR</manacost>			
-			<cmc>5</cmc>			
-			<color>R</color>			
-			<type>Legendary Creature - Beast</type>			
-			<pt></pt>			
-			<tablerow>2</tablerow>			
-			<text>Be a Big Boi: Win</text>			
-		</card>
+	<cards>			
+	<card>			
+		<name>Ellysia Elite Captain</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>2GG</manacost>
+		<cmc>4</cmc>			
+		<color>G</color>			
+		<type>Planeswalker â€” Ellysia</type>
+		<loyalty>4</loyalty>
+		<tablerow>2</tablerow>
+		<text>[+1]: Create a 2/2 green Elf Warrior creature token with “When this creature deals damage, put a loyalty counter on an Ellysia planeswalker you control.”
+[0]: Until end of turn, Ellysia, Elite Captain becomes an indestructible Elf Warrior creature with power and toughness equal to the number of loyalty counters on her. She’s still a planeswalker. Prevent all damage that would be dealt to her this turn.
+[-7]: You get an emblem with “Whenever a creature you control attacks, you may have it deal damage equal to its power to any target.”
+Ellysia, Elite Captain can be your commander.
+</text>
+	</card>
+	<card>			
+		<name>Iwato</name>
+		<set picURL="" rarity="Rare">COM</set>
+		<manacost>1RRRR</manacost>
+		<cmc>5</cmc>			
+		<color>R</color>			
+		<type>Legendary Creature â€” Beast</type>
+		<pt>1/10</pt>
+		<tablerow>2</tablerow>
+		<text>Trample, haste
+Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's power and toughness until end of turn.</text>
+	</card>
 <card>			
 			<name>Jangle Flaccid King</name>			
 			<set picURL="" rarity="Mythic Rare">COM</set>			
@@ -208,6 +213,18 @@
 			When Maria, Modern Marvel enters the battlefield or attacks, you may attach any number of modular enhancements to it without paying their equip costs. </text>			
 		</card>
 <card>			
+			<name>Taranis, the Avenger</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>1UWB</manacost>			
+			<cmc>5</cmc>			
+			<color>UWB</color>			
+			<type>Legendary Creature â€” Spirit Knight</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Hexproof
+If a creature dying or entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>			
+		</card>
+<card>			
 			<name>Maria Astartian Mecha</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>5WW</manacost>			
@@ -310,17 +327,19 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<tablerow>2</tablerow>			
 			<text>If you can convince an opponent to let you activate this ability, roll a D100. If the roll is even or 69, you gain 420 life. Otherwise, you must get them a drink of their choice, or snort Elmer’s Glue ™</text>			
 		</card>
-<card>			
-			<name>Orzahal the Demon Blade</name>			
-			<set picURL="" rarity="Rare">COM</set>			
-			<manacost>1WBR</manacost>			
-			<cmc>4</cmc>			
-			<color>WBR</color>			
-			<type>Legendary Artifact Creature</type>			
-			<pt>6/6</pt>			
-			<tablerow>2</tablerow>			
-			<text>Yikes</text>			
-		</card>
+	<card>			
+		<name>Orzahal the Demon Blade</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>1WBR</manacost>
+		<cmc>4</cmc>			
+		<color>WBR</color>			
+		<type>Legendary Artifact Creature â€” Demon Equipment</type>
+		<pt>6/6</pt>
+		<tablerow>2</tablerow>
+		<text>Orzahal, the Demon Blade has all abilities of the equipped creature and can only attack or block with the equipped creature.
+Equip {3}
+Equipped creature has flying and trample and can only attack or block with Orzahal, the Demon Blade.</text>
+	</card>
 <card>			
 			<name>Rejected Jester</name>			
 			<set picURL="" rarity="Rare">COM</set>			
@@ -344,16 +363,34 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<text>Snow Bro</text>			
 		</card>
 <card>			
-			<name>Tsuyo and Shina</name>			
-			<set picURL="" rarity="Rare">COM</set>			
-			<manacost>1UG</manacost>			
-			<cmc>3</cmc>			
-			<color>UG</color>			
-			<type>Legendary Creature</type>			
-			<pt>3/3</pt>			
+			<name>Betzalel, the Undying</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>UGW</color>			
+			<type>Legendary Planeswalker â€” Betzalel</type>			
+			<pt></pt>
+			<loyalty>X</loyalty>
 			<tablerow>2</tablerow>			
-			<text> Big Girl No Like </text>			
-		</card>	
+			<text></text>			
+		</card>
+	<card>			
+		<name>Tsuyo and Shina</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>1GU</manacost>
+		<cmc>3</cmc>			
+		<color>GU</color>			
+		<type>Legendary Creature - Dragon Monk</type>
+		<pt>3/3</pt>
+		<tablerow>2</tablerow>
+		<text>Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 4-6
+5/5
+Remove a level counter from Tsuyo and Shina: They gain hexproof and indestructible until end of turn.
+LEVEL 7+
+6/6
+Remove four level counters from Tsuyo and Shina: Take an extra turn after this one.</text>
+	</card>
 <card>			
 			<name>Twysler Warscorned Sentinel</name>			
 			<set picURL="" rarity="Rare">COM</set>			
@@ -375,6 +412,45 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<pt>3/6</pt>			
 			<tablerow>2</tablerow>			
 			<text> Deathtouch girl</text>			
+		</card>
+<card>			
+			<name>Nevara, the Flying Terror</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature â€” Spirit</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>	
+<card>			
+			<name>Asmodeus, Stormâ€™s Peril</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature â€” Leviathan</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>
+<card>			
+			<name>Aeoheim</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>GGG{W/U}{W/U}</manacost>			
+			<cmc>5</cmc>			
+			<color>UGW</color>			
+			<type>Legendary Creature â€” Elemental</type>			
+			<pt>6/6</pt>			
+			<tablerow>2</tablerow>			
+			<text>Landfall â€” Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
+Elementals you control have â€œ{T}: Add one mana of any colorâ€ and are lands in addition to their other types.
+Lands you control produce one extra mana of any type that land could produce.</text>			
 		</card>
 <card>			
 			<name>Jinsa Full of Fury</name>			
@@ -430,6 +506,18 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text> Swiggity Swooty, ur commander is my booty</text>			
+		</card>					
+		<card>			
+			<name>Borg, Master Automater</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>7</manacost>			
+			<cmc>7</cmc>			
+			<color></color>			
+			<type>Legendary Artifact Creature - Golem</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text>Affinity for artifacts
+Artifacts you control have power and toughness equal to the number of artifacts you control and are creatures in addition to their other types.</text>			
 		</card>	
 <card>			
 			<name>Xydril the Augmentor</name>			
