@@ -113,19 +113,6 @@ If a creature you control would leave the battlefield, instead return it to the 
 			Creatures you control have wither.</text>			
 		</card>
 <card>			
-			<name>Nayra, Nature's Revival</name>			
-			<set picURL="" rarity="Rare">VRS</set>			
-			<manacost>3B</manacost>			
-			<cmc>4</cmc>			
-			<color>B</color>			
-			<type>Legendary Creature — Spirit</type>			
-			<pt>4/4</pt>			
-			<tablerow>2</tablerow>			
-			<text>Deathtouch
-			At the beginning of your upkeep, put a -1/-1 counter on target creature.
-			Creatures you control have wither.</text>			
-		</card>
-<card>			
 			<name>Amplifying Cavalier</name>			
 			<set picURL="" rarity="Rare">VRS</set>			
 			<manacost>3B</manacost>			

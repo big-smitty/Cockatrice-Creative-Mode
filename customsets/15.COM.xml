@@ -427,6 +427,19 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			Creatures you control have wither.</text>			
 		</card>	
 <card>			
+			<name>Nayra, Nature's Revival</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Spirit</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>
+<card>			
 			<name>Asmodeus, Storm's Peril</name>			
 			<set picURL="" rarity="Mythic Rare">COM</set>			
 			<manacost>3B</manacost>			
