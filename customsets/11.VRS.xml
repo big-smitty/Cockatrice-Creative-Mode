@@ -74,6 +74,18 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			Creatures you control have wither.</text>			
 		</card>
 <card>			
+			<name>Raise and Train</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>4BB</manacost>			
+			<cmc>6</cmc>			
+			<color>B</color>			
+			<type>Legendary Enchantment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Skip your untap and draw steps.
+If a creature you control would leave the battlefield, instead return it to the battlefield with a +1/+1 counter.</text>			
+		</card>
+<card>			
 			<name>Enlightened Wisp</name>			
 			<set picURL="" rarity="Rare">VRS</set>			
 			<manacost>3B</manacost>			

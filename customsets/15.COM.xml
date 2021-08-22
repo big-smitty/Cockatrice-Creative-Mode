@@ -14,7 +14,7 @@
 			<manacost>2GG</manacost>			
 			<cmc>4</cmc>			
 			<color>G</color>			
-			<type>Planeswalker</type>			
+			<type>Legendary Planeswalker - Ellysia</type>			
 			<pt>4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Lot's of text.  No way I'm writing it all.</text>			
@@ -25,7 +25,7 @@
 			<manacost>1RRRR</manacost>			
 			<cmc>5</cmc>			
 			<color>R</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Beast</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Be a Big Boi: Win</text>			
@@ -36,7 +36,7 @@
 			<manacost>2RB</manacost>			
 			<cmc>4</cmc>			
 			<color>RB</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Goblin</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Win big go home</text>			
@@ -47,7 +47,7 @@
 			<manacost>RW</manacost>			
 			<cmc>2</cmc>			
 			<color>RW</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Praetor</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>Be a Scary Dude</text>			
@@ -58,7 +58,7 @@
 			<manacost>2UR</manacost>			
 			<cmc>4</cmc>			
 			<color>UR</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Dragon Illusion</type>			
 			<pt>1/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>Almost as crazy as tyler about his girl buddies</text>			
@@ -69,7 +69,7 @@
 			<manacost>2BR</manacost>			
 			<cmc>4</cmc>			
 			<color>BR</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Demon Chimera</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>You know, if its a guy chimera it technically has three heads</text>			
@@ -91,7 +91,7 @@
 			<manacost>3{G/P}{B/P}</manacost>			
 			<cmc>5</cmc>			
 			<color>GB</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Zombie Dinosaur</type>			
 			<pt>5/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>mangled and falling apart at the seams, just like my life and faith in my future</text>			
@@ -102,18 +102,18 @@
 			<manacost>4GG</manacost>			
 			<cmc>6</cmc>			
 			<color>G</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Treefolk Beast</type>			
 			<pt>2/10</pt>			
 			<tablerow>2</tablerow>			
 			<text>You notice that it only has 1 ear? Weird flex but ok. Also, fun fact, the girls name is canonically named Antimony, from a comic called GunnerKrig</text>			
 		</card>
 <card>			
-			<name>Gravotrinic Nightmare</name>			
+			<name>Gravotronic Nightmare</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>1UBR</manacost>			
 			<cmc>4</cmc>			
 			<color>UBR</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Nightmare</type>			
 			<pt>6/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>YOINK your booty is my looty</text>			
@@ -135,7 +135,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifacts</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>big stompy</text>			
@@ -146,7 +146,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>He ain't goin anywhere</text>			
@@ -157,7 +157,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Z O O M</text>			
@@ -168,7 +168,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Who's on first? Who's on First?</text>			
@@ -179,7 +179,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Pocket Sand  (!)</text>			
@@ -190,7 +190,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact</type>			
+			<type>Legendary Artifact - Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Dont spend too much time thinking about how a modular enhancement makes the dude big</text>			
@@ -201,7 +201,7 @@
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact Creature</type>			
+			<type>Legendary Artifact Creature - Maria</type>			
 			<pt>10/10</pt>			
 			<tablerow>2</tablerow>			
 			<text>Indestructible, protection from non-artifact spells, abilities, and creatures.
@@ -213,7 +213,7 @@
 			<manacost>5WW</manacost>			
 			<cmc>7</cmc>			
 			<color>W</color>			
-			<type>Legendary Planeswalker</type>			
+			<type>Legendary Planeswalker - Maria</type>			
 			<pt>10</pt>			
 			<tablerow>2</tablerow>			
 			<text>+1 Add a loyalty counter to Maria, Astartian Mecha for each artifact you control.
@@ -222,24 +222,12 @@
 			Maria, Astartian Mecha can be your commander.</text>			
 		</card>
 <card>			
-			<name>Raise and Train</name>			
-			<set picURL="" rarity="Rare">COM</set>			
-			<manacost>4BB</manacost>			
-			<cmc>6</cmc>			
-			<color>B</color>			
-			<type>Legendary Enchantment</type>			
-			<pt></pt>			
-			<tablerow>2</tablerow>			
-			<text>Skip your untap and draw steps.
-If a creature you control would leave the battlefield, instead return it to the battlefield with a +1/+1 counter.</text>			
-		</card>
-<card>			
 			<name>Arwyl  Thomas</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>1GG</manacost>			
 			<cmc>3</cmc>			
 			<color>G</color>			
-			<type>Legendary Planeswalker</type>			
+			<type>Legendary Planeswalker - Arwyl and Thomas</type>			
 			<pt>3</pt>			
 			<tablerow>2</tablerow>			
 			<text>+2 Until the beginning of your next upkeep, non-land permanents you control with mana value 1 or less have indestructible and hexproof.
@@ -254,7 +242,7 @@ has “T: Counter target spell or ability”
 			<manacost>0</manacost>			
 			<cmc>1</cmc>			
 			<color>G</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Human Token</type>			
 			<pt>1/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>Thomas, Pretender has mana value 1.
@@ -266,7 +254,7 @@ T: Counter target spell or ability.   </text>
 			<manacost>GWU</manacost>			
 			<cmc>3</cmc>			
 			<color>GWU</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Golem Nomad</type>			
 			<pt>2/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>At the beginning of each player’s upkeep, put an exploration counter on a land that player controls. Then, that player gains control of and untaps all lands with exploration counters until end of turn.</text>			
@@ -277,7 +265,7 @@ T: Counter target spell or ability.   </text>
 			<manacost>1BBBB</manacost>			
 			<cmc>5</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Dragon</type>			
 			<pt>*/*</pt>			
 			<tablerow>2</tablerow>			
 			<text>Flying, shadow (This creature can block or be blocked by only creatures with shadow.)
@@ -289,7 +277,7 @@ Chroma — Scoria’s power and toughness are equal to your devotion to black.</
 			<manacost>5B</manacost>			
 			<cmc>6</cmc>			
 			<color>WUBRG</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Nightstalker</type>			
 			<pt>3/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>When The Beast of Ghrazen-Tor attacks, it gains indestructible until end of turn.
@@ -304,7 +292,7 @@ Chroma — Scoria’s power and toughness are equal to your devotion to black.</
 			<manacost>1BB</manacost>			
 			<cmc>3</cmc>			
 			<color>BW</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Horror</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>When Hor enters the battlefield, sacrifice it unless it escaped.
@@ -317,7 +305,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>69L{E}{E}</manacost>			
 			<cmc>420</cmc>			
 			<color>W</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Poopy Butt</type>			
 			<pt>0/0</pt>			
 			<tablerow>2</tablerow>			
 			<text>If you can convince an opponent to let you activate this ability, roll a D100. If the roll is even or 69, you gain 420 life. Otherwise, you must get them a drink of their choice, or snort Elmer’s Glue ™</text>			
@@ -339,7 +327,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>2WWUUGG</manacost>			
 			<cmc>8</cmc>			
 			<color>WUG</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Human</type>			
 			<pt>2/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>This card is stupid and if you play it you're a coward.</text>			
@@ -350,7 +338,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>2WWW</manacost>			
 			<cmc>5</cmc>			
 			<color>W</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Bird Avatar</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Snow Bro</text>			
@@ -372,7 +360,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>GGUU</manacost>			
 			<cmc>4</cmc>			
 			<color>GU</color>			
-			<type>Legendary Creature</type>			
+			<type>Legendary Creature - Human Mystic</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> Tyler and Michael are sitting in a tree, k i s s i n g</text>			
@@ -427,7 +415,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>RGW</manacost>			
 			<cmc>3</cmc>			
 			<color>RGW</color>			
-			<type>Legendary Planeswalker</type>			
+			<type>Legendary Planeswalker - Krinos</type>			
 			<pt>0</pt>			
 			<tablerow>2</tablerow>			
 			<text> Lets be honest if this doesn't break the game nothing will</text>			
