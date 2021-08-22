@@ -66,7 +66,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature - Spirit</type>			
+			<type>Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -79,7 +79,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature - Spirit</type>			
+			<type>Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -105,7 +105,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Enchantment - Aura</type>			
+			<type>Enchantment — Aura</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -118,7 +118,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Spirit</type>			
+			<type>Legendary Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -131,7 +131,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature - Spirit</type>			
+			<type>Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -144,7 +144,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature - Spirit</type>			
+			<type>Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -157,7 +157,7 @@ If a creature you control would leave the battlefield, instead return it to the 
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Creature - Spirit</type>			
+			<type>Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch

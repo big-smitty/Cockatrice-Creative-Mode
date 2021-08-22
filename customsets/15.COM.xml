@@ -14,7 +14,7 @@
 		<manacost>2GG</manacost>
 		<cmc>4</cmc>			
 		<color>G</color>			
-		<type>Planeswalker - Ellysia</type>
+		<type>Planeswalker — Ellysia</type>
 		<loyalty>4</loyalty>
 		<tablerow>2</tablerow>
 		<text>[+1]: Create a 2/2 green Elf Warrior creature token with “When this creature deals damage, put a loyalty counter on an Ellysia planeswalker you control.”
@@ -29,7 +29,7 @@ Ellysia, Elite Captain can be your commander.
 		<manacost>1RRRR</manacost>
 		<cmc>5</cmc>			
 		<color>R</color>			
-		<type>Legendary Creature - Beast</type>
+		<type>Legendary Creature — Beast</type>
 		<pt>1/10</pt>
 		<tablerow>2</tablerow>
 		<text>Trample, haste
@@ -41,7 +41,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>2RB</manacost>			
 			<cmc>4</cmc>			
 			<color>RB</color>			
-			<type>Legendary Creature - Goblin</type>			
+			<type>Legendary Creature — Goblin</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Win big go home</text>			
@@ -52,7 +52,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>RW</manacost>			
 			<cmc>2</cmc>			
 			<color>RW</color>			
-			<type>Legendary Creature - Praetor</type>			
+			<type>Legendary Creature — Praetor</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>Be a Scary Dude</text>			
@@ -63,7 +63,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>2UR</manacost>			
 			<cmc>4</cmc>			
 			<color>UR</color>			
-			<type>Legendary Creature - Dragon Illusion</type>			
+			<type>Legendary Creature — Dragon Illusion</type>			
 			<pt>1/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>Almost as crazy as tyler about his girl buddies</text>			
@@ -74,7 +74,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>2BR</manacost>			
 			<cmc>4</cmc>			
 			<color>BR</color>			
-			<type>Legendary Creature - Demon Chimera</type>			
+			<type>Legendary Creature — Demon Chimera</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>You know, if its a guy chimera it technically has three heads</text>			
@@ -96,7 +96,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>3{G/P}{B/P}</manacost>			
 			<cmc>5</cmc>			
 			<color>GB</color>			
-			<type>Legendary Creature - Zombie Dinosaur</type>			
+			<type>Legendary Creature — Zombie Dinosaur</type>			
 			<pt>5/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>mangled and falling apart at the seams, just like my life and faith in my future</text>			
@@ -107,7 +107,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>4GG</manacost>			
 			<cmc>6</cmc>			
 			<color>G</color>			
-			<type>Legendary Creature - Treefolk Beast</type>			
+			<type>Legendary Creature — Treefolk Beast</type>			
 			<pt>2/10</pt>			
 			<tablerow>2</tablerow>			
 			<text>You notice that it only has 1 ear? Weird flex but ok. Also, fun fact, the girls name is canonically named Antimony, from a comic called GunnerKrig</text>			
@@ -118,7 +118,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>1UBR</manacost>			
 			<cmc>4</cmc>			
 			<color>UBR</color>			
-			<type>Legendary Creature - Nightmare</type>			
+			<type>Legendary Creature — Nightmare</type>			
 			<pt>6/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>YOINK your booty is my looty</text>			
@@ -140,7 +140,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>big stompy</text>			
@@ -151,7 +151,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>He ain't goin anywhere</text>			
@@ -162,7 +162,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Z O O M</text>			
@@ -173,7 +173,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Who's on first? Who's on First?</text>			
@@ -184,7 +184,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Pocket Sand  (!)</text>			
@@ -195,7 +195,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact - Equipment</type>			
+			<type>Legendary Artifact — Equipment</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>			
 			<text>Dont spend too much time thinking about how a modular enhancement makes the dude big</text>			
@@ -206,7 +206,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color>W</color>			
-			<type>Legendary Artifact Creature - Maria</type>			
+			<type>Legendary Artifact Creature — Maria</type>			
 			<pt>10/10</pt>			
 			<tablerow>2</tablerow>			
 			<text>Indestructible, protection from non-artifact spells, abilities, and creatures.
@@ -218,7 +218,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>1UWB</manacost>			
 			<cmc>5</cmc>			
 			<color>UWB</color>			
-			<type>Legendary Creature - Spirit Knight</type>			
+			<type>Legendary Creature — Spirit Knight</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>Hexproof
@@ -230,7 +230,7 @@ If a creature dying or entering the battlefield causes a triggered ability of a 
 			<manacost>5WW</manacost>			
 			<cmc>7</cmc>			
 			<color>W</color>			
-			<type>Legendary Planeswalker - Maria</type>			
+			<type>Legendary Planeswalker — Maria</type>			
 			<pt>10</pt>			
 			<tablerow>2</tablerow>			
 			<text>+1 Add a loyalty counter to Maria, Astartian Mecha for each artifact you control.
@@ -244,7 +244,7 @@ If a creature dying or entering the battlefield causes a triggered ability of a 
 			<manacost>1GG</manacost>			
 			<cmc>3</cmc>			
 			<color>G</color>			
-			<type>Legendary Planeswalker - Arwyl and Thomas</type>			
+			<type>Legendary Planeswalker — Arwyl and Thomas</type>			
 			<pt>3</pt>			
 			<tablerow>2</tablerow>			
 			<text>+2 Until the beginning of your next upkeep, non-land permanents you control with mana value 1 or less have indestructible and hexproof.
@@ -259,7 +259,7 @@ has “T: Counter target spell or ability”
 			<manacost>0</manacost>			
 			<cmc>1</cmc>			
 			<color>G</color>			
-			<type>Legendary Creature - Human Token</type>			
+			<type>Legendary Creature — Human Token</type>			
 			<pt>1/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>Thomas, Pretender has mana value 1.
@@ -271,7 +271,7 @@ T: Counter target spell or ability.   </text>
 			<manacost>GWU</manacost>			
 			<cmc>3</cmc>			
 			<color>GWU</color>			
-			<type>Legendary Creature - Golem Nomad</type>			
+			<type>Legendary Creature — Golem Nomad</type>			
 			<pt>2/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>At the beginning of each player’s upkeep, put an exploration counter on a land that player controls. Then, that player gains control of and untaps all lands with exploration counters until end of turn.</text>			
@@ -282,7 +282,7 @@ T: Counter target spell or ability.   </text>
 			<manacost>1BBBB</manacost>			
 			<cmc>5</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Dragon</type>			
+			<type>Legendary Creature — Dragon</type>			
 			<pt>*/*</pt>			
 			<tablerow>2</tablerow>			
 			<text>Flying, shadow (This creature can block or be blocked by only creatures with shadow.)
@@ -294,7 +294,7 @@ Chroma — Scoria’s power and toughness are equal to your devotion to black.</
 			<manacost>5B</manacost>			
 			<cmc>6</cmc>			
 			<color>WUBRG</color>			
-			<type>Legendary Creature - Nightstalker</type>			
+			<type>Legendary Creature — Nightstalker</type>			
 			<pt>3/5</pt>			
 			<tablerow>2</tablerow>			
 			<text>When The Beast of Ghrazen-Tor attacks, it gains indestructible until end of turn.
@@ -309,7 +309,7 @@ Chroma — Scoria’s power and toughness are equal to your devotion to black.</
 			<manacost>1BB</manacost>			
 			<cmc>3</cmc>			
 			<color>BW</color>			
-			<type>Legendary Creature - Horror</type>			
+			<type>Legendary Creature — Horror</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>When Hor enters the battlefield, sacrifice it unless it escaped.
@@ -322,7 +322,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 			<manacost>69L{E}{E}</manacost>			
 			<cmc>420</cmc>			
 			<color>W</color>			
-			<type>Legendary Creature - Poopy Butt</type>			
+			<type>Legendary Creature — Poopy Butt</type>			
 			<pt>0/0</pt>			
 			<tablerow>2</tablerow>			
 			<text>If you can convince an opponent to let you activate this ability, roll a D100. If the roll is even or 69, you gain 420 life. Otherwise, you must get them a drink of their choice, or snort Elmer’s Glue ™</text>			
@@ -333,7 +333,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 		<manacost>1WBR</manacost>
 		<cmc>4</cmc>			
 		<color>WBR</color>			
-		<type>Legendary Artifact Creature - Demon Equipment</type>
+		<type>Legendary Artifact Creature — Demon Equipment</type>
 		<pt>6/6</pt>
 		<tablerow>2</tablerow>
 		<text>Orzahal, the Demon Blade has all abilities of the equipped creature and can only attack or block with the equipped creature.
@@ -346,7 +346,7 @@ Equipped creature has flying and trample and can only attack or block with Orzah
 			<manacost>2WWUUGG</manacost>			
 			<cmc>8</cmc>			
 			<color>WUG</color>			
-			<type>Legendary Creature - Human</type>			
+			<type>Legendary Creature — Human</type>			
 			<pt>2/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>This card is stupid and if you play it you're a coward.</text>			
@@ -357,7 +357,7 @@ Equipped creature has flying and trample and can only attack or block with Orzah
 			<manacost>2WWW</manacost>			
 			<cmc>5</cmc>			
 			<color>W</color>			
-			<type>Legendary Creature - Bird Avatar</type>			
+			<type>Legendary Creature — Bird Avatar</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Snow Bro</text>			
@@ -368,7 +368,7 @@ Equipped creature has flying and trample and can only attack or block with Orzah
 			<manacost>2BR</manacost>			
 			<cmc>4</cmc>			
 			<color>UGW</color>			
-			<type>Legendary Planeswalker - Betzalel</type>			
+			<type>Legendary Planeswalker — Betzalel</type>			
 			<pt></pt>
 			<loyalty>X</loyalty>
 			<tablerow>2</tablerow>			
@@ -380,7 +380,7 @@ Equipped creature has flying and trample and can only attack or block with Orzah
 		<manacost>1GU</manacost>
 		<cmc>3</cmc>			
 		<color>GU</color>			
-		<type>Legendary Creature - Dragon Monk</type>
+		<type>Legendary Creature — Dragon Monk</type>
 		<pt>3/3</pt>
 		<tablerow>2</tablerow>
 		<text>Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
@@ -397,7 +397,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>GGUU</manacost>			
 			<cmc>4</cmc>			
 			<color>GU</color>			
-			<type>Legendary Creature - Human Mystic</type>			
+			<type>Legendary Creature — Human Mystic</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> Tyler and Michael are sitting in a tree, k i s s i n g</text>			
@@ -408,7 +408,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>4BB</manacost>			
 			<cmc>6</cmc>			
 			<color>GB</color>			
-			<type>Legendary Creature - Human Rogue</type>			
+			<type>Legendary Creature — Human Rogue</type>			
 			<pt>3/6</pt>			
 			<tablerow>2</tablerow>			
 			<text> Deathtouch girl</text>			
@@ -419,7 +419,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Spirit</type>			
+			<type>Legendary Creature — Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -432,7 +432,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Leviathan</type>			
+			<type>Legendary Creature — Leviathan</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -445,10 +445,10 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>GGG{W/U}{W/U}</manacost>			
 			<cmc>5</cmc>			
 			<color>UGW</color>			
-			<type>Legendary Creature - Elemental</type>			
+			<type>Legendary Creature — Elemental</type>			
 			<pt>6/6</pt>			
 			<tablerow>2</tablerow>			
-			<text>Landfall - Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
+			<text>Landfall — Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
 Elementals you control have â€œ{T}: Add one mana of any colorâ€ and are lands in addition to their other types.
 Lands you control produce one extra mana of any type that land could produce.</text>			
 		</card>
@@ -458,7 +458,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>BRGW</manacost>			
 			<cmc>4</cmc>			
 			<color>BRGW</color>			
-			<type>Legendary Creature - Human Cleric</type>			
+			<type>Legendary Creature — Human Cleric</type>			
 			<pt>3/1</pt>			
 			<tablerow>2</tablerow>			
 			<text> Wow she is kinda hot ngl</text>			
@@ -469,7 +469,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>BGW</manacost>			
 			<cmc>3</cmc>			
 			<color>BGW</color>			
-			<type>Legendary Creature - Dragon Elder</type>			
+			<type>Legendary Creature — Dragon Elder</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> This is a big scary Dragon, but it isn't as scary as Tyler after burritos</text>			
@@ -480,7 +480,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>1GU</manacost>			
 			<cmc>3</cmc>			
 			<color>GU</color>			
-			<type>Legendary Creature - Bird Faerie</type>			
+			<type>Legendary Creature — Bird Faerie</type>			
 			<pt>2/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> Triggerd ability (TRIGGEREDDD)</text>			
@@ -491,7 +491,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>RGW</manacost>			
 			<cmc>3</cmc>			
 			<color>RGW</color>			
-			<type>Legendary Planeswalker - Krinos</type>			
+			<type>Legendary Planeswalker — Krinos</type>			
 			<pt>0</pt>			
 			<tablerow>2</tablerow>			
 			<text> Lets be honest if this doesn't break the game nothing will</text>			
@@ -502,7 +502,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>3BB</manacost>			
 			<cmc>5</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Demon</type>			
+			<type>Legendary Creature — Demon</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text> Swiggity Swooty, ur commander is my booty</text>			
@@ -513,7 +513,7 @@ Lands you control produce one extra mana of any type that land could produce.</t
 			<manacost>7</manacost>			
 			<cmc>7</cmc>			
 			<color></color>			
-			<type>Legendary Artifact Creature - Golem</type>			
+			<type>Legendary Artifact Creature — Golem</type>			
 			<pt>0/0</pt>			
 			<tablerow>2</tablerow>			
 			<text>Affinity for artifacts
@@ -525,7 +525,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>5UR</manacost>			
 			<cmc>7</cmc>			
 			<color>UR</color>			
-			<type>Legendary Creature - Human Wizard</type>			
+			<type>Legendary Creature — Human Wizard</type>			
 			<pt>3/7</pt>			
 			<tablerow>2</tablerow>			
 			<text> He's cold in the streets, he's hot in the sheets.  Xydril.  He's the perfect man.</text>			
@@ -536,7 +536,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>3BR</manacost>			
 			<cmc>5</cmc>			
 			<color>BR</color>			
-			<type>Legendary Creature - Human Warrior</type>			
+			<type>Legendary Creature — Human Warrior</type>			
 			<pt>6/5</pt>			
 			<tablerow>2</tablerow>			
 			<text> Someone raised him well.  He comes from good crop.</text>			
@@ -547,7 +547,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>1UR</manacost>			
 			<cmc>3</cmc>			
 			<color>UR</color>			
-			<type>Legendary Creature - Reflection</type>			
+			<type>Legendary Creature — Reflection</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
@@ -558,7 +558,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>2GB</manacost>			
 			<cmc>4</cmc>			
 			<color>Gb</color>			
-			<type>Legendary Creature - Zombie Egg</type>			
+			<type>Legendary Creature — Zombie Egg</type>			
 			<pt>0/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>eww ewww ewwwwww</text>			
@@ -569,7 +569,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>8</manacost>			
 			<cmc>8</cmc>			
 			<color>RGW</color>			
-			<type>Legendary Creature - Dinosaur</type>			
+			<type>Legendary Creature — Dinosaur</type>			
 			<pt>6/7</pt>			
 			<tablerow>2</tablerow>			
 			<text>He'a big boy. In layman terms, hes loud and annoying.</text>			
@@ -580,7 +580,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>0</manacost>			
 			<cmc>0</cmc>			
 			<color></color>			
-			<type>Legendary Land - Plains Island Swamp Mountain Forest</type>			
+			<type>Legendary Land — Plains Island Swamp Mountain Forest</type>			
 			<pt>0</pt>			
 			<tablerow>2</tablerow>			
 			<text> heh</text>			
@@ -591,7 +591,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>3BB</manacost>			
 			<cmc>5</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Human Assassin</type>			
+			<type>Legendary Creature — Human Assassin</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text> She puts the butt in assassin. It's the last thing you'll see before you die.</text>		
@@ -602,7 +602,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>WUBRG</manacost>			
 			<cmc>5</cmc>			
 			<color>WUBRG</color>			
-			<type>Legendary Creature - Shapeshifter</type>			
+			<type>Legendary Creature — Shapeshifter</type>			
 			<pt>5/5</pt>			
 			<tablerow>2</tablerow>			
 			<text> WUBRG</text>			
@@ -613,7 +613,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>BW</manacost>			
 			<cmc>2</cmc>			
 			<color>BW</color>			
-			<type>Legendary Creature - Dragon Spirit</type>			
+			<type>Legendary Creature — Dragon Spirit</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> Flicker in a body I guess.  He looks cool, it ur into glo stick bois</text>			
@@ -624,7 +624,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>R</manacost>			
 			<cmc>R</cmc>			
 			<color>R</color>			
-			<type>Legendary Creature - Goblin</type>			
+			<type>Legendary Creature — Goblin</type>			
 			<pt>1/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>Lets be honest if magic were real youd never beat the goblins.  Theyre too powerful.  Kamikaze little bastrds.</text>			
@@ -635,7 +635,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>3GUB</manacost>			
 			<cmc>6</cmc>			
 			<color>GUB</color>			
-			<type>Legendary Creature - Horror</type>			
+			<type>Legendary Creature — Horror</type>			
 			<pt>6/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>I forgot what delve is. There's probably a joke here somewhere. *Shuffles papers* *ahem* this fkn joke will be the delve of me.</text>			
@@ -646,7 +646,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>2WBR</manacost>			
 			<cmc>5</cmc>			
 			<color>WBR</color>			
-			<type>Legendary Creature - Hellion</type>			
+			<type>Legendary Creature — Hellion</type>			
 			<pt>6/5</pt>			
 			<tablerow>2</tablerow>			
 			<text> Yeah im still bigger where it counts ;) talkin about my huge throbbing nose</text>			
@@ -657,7 +657,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>3R/U/B</manacost>			
 			<cmc>4</cmc>			
 			<color>RUB</color>			
-			<type>Legendary Creature - Shapeshifter</type>			
+			<type>Legendary Creature — Shapeshifter</type>			
 			<pt>0/0</pt>			
 			<tablerow>2</tablerow>			
 			<text> No u. No u.</text>			
@@ -668,7 +668,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>1WB</manacost>			
 			<cmc>3</cmc>			
 			<color>WB</color>			
-			<type>Legendary Creature - Zombie Warrior</type>			
+			<type>Legendary Creature — Zombie Warrior</type>			
 			<pt>2/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>That armor is mega impractical but im a monkeys uncle if it isnt wicked good lookin</text>			
@@ -679,7 +679,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>2RW</manacost>			
 			<cmc>4</cmc>			
 			<color>RW</color>			
-			<type>Legendary Creature - Skeleton Warrior</type>			
+			<type>Legendary Creature — Skeleton Warrior</type>			
 			<pt>3/2</pt>			
 			<tablerow>2</tablerow>			
 			<text> Pew Pew</text>			
@@ -690,7 +690,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>3GW</manacost>			
 			<cmc>5</cmc>			
 			<color>GW</color>			
-			<type>Legendary Creature - Human Druid</type>			
+			<type>Legendary Creature — Human Druid</type>			
 			<pt>4/3</pt>			
 			<tablerow>2</tablerow>			
 			<text> Enchantments I guess?  I can't pay attention. Too distracted by the bust on this broad. Sorry tilr, ur the one who picked the art</text>			
@@ -701,7 +701,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>XBB</manacost>			
 			<cmc>2</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature - Shade</type>			
+			<type>Legendary Creature — Shade</type>			
 			<pt>0/0</pt>			
 			<tablerow>2</tablerow>			
 			<text> Spooky dooky dude.  I hope you forgot your sunblock, this guy has got you covered instead.</text>			
@@ -712,7 +712,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>U</manacost>			
 			<cmc>1</cmc>			
 			<color>U</color>			
-			<type>Legendary Creature - Merfolk Zombie</type>			
+			<type>Legendary Creature — Merfolk Zombie</type>			
 			<pt>1/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>Glub</text>			
@@ -723,7 +723,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>1W</manacost>			
 			<cmc>2</cmc>			
 			<color>W</color>			
-			<type>Legendary Creature - Human Cleric</type>			
+			<type>Legendary Creature — Human Cleric</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>Remember that Grizzly Bears is a 3/3?  This priestess, who I assume just up and joined the clergy right out of highschool and took an oath of sobriety and abstinence, can apparently tag team herself to take down a bear. Probably just overpowered from that wicked looking headress she's wearing.  No, you need flavor text.</text>			
@@ -734,7 +734,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>7UB</manacost>			
 			<cmc>9</cmc>			
 			<color>UB</color>			
-			<type>Legendary Creature - Leviathan</type>			
+			<type>Legendary Creature — Leviathan</type>			
 			<pt>9/9</pt>			
 			<tablerow>2</tablerow>			
 			<text>Glub Glub Btchs</text>			
@@ -745,7 +745,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>2G</manacost>			
 			<cmc>3</cmc>			
 			<color>G</color>			
-			<type>Legendary Enchantment Creature - Dragon</type>			
+			<type>Legendary Enchantment Creature — Dragon</type>			
 			<pt>1/2</pt>			
 			<tablerow>2</tablerow>			
 			<text> For all you red green color blind people unfortunate enough to play magic with your condition, let me clarify this card. It's more green than you will ever see.</text>			
@@ -756,7 +756,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>1UR</manacost>			
 			<cmc>3</cmc>			
 			<color>UR</color>			
-			<type>Legendary Creature - Reflection</type>			
+			<type>Legendary Creature — Reflection</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
