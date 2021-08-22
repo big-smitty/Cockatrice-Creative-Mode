@@ -14,7 +14,7 @@
 		<manacost>2GG</manacost>
 		<cmc>4</cmc>			
 		<color>G</color>			
-		<type>Planeswalker â€” Ellysia</type>
+		<type>Planeswalker - Ellysia</type>
 		<loyalty>4</loyalty>
 		<tablerow>2</tablerow>
 		<text>[+1]: Create a 2/2 green Elf Warrior creature token with “When this creature deals damage, put a loyalty counter on an Ellysia planeswalker you control.”
@@ -29,7 +29,7 @@ Ellysia, Elite Captain can be your commander.
 		<manacost>1RRRR</manacost>
 		<cmc>5</cmc>			
 		<color>R</color>			
-		<type>Legendary Creature â€” Beast</type>
+		<type>Legendary Creature - Beast</type>
 		<pt>1/10</pt>
 		<tablerow>2</tablerow>
 		<text>Trample, haste
@@ -218,7 +218,7 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<manacost>1UWB</manacost>			
 			<cmc>5</cmc>			
 			<color>UWB</color>			
-			<type>Legendary Creature â€” Spirit Knight</type>			
+			<type>Legendary Creature - Spirit Knight</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>Hexproof
@@ -333,7 +333,7 @@ Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</
 		<manacost>1WBR</manacost>
 		<cmc>4</cmc>			
 		<color>WBR</color>			
-		<type>Legendary Artifact Creature â€” Demon Equipment</type>
+		<type>Legendary Artifact Creature - Demon Equipment</type>
 		<pt>6/6</pt>
 		<tablerow>2</tablerow>
 		<text>Orzahal, the Demon Blade has all abilities of the equipped creature and can only attack or block with the equipped creature.
@@ -368,7 +368,7 @@ Equipped creature has flying and trample and can only attack or block with Orzah
 			<manacost>2BR</manacost>			
 			<cmc>4</cmc>			
 			<color>UGW</color>			
-			<type>Legendary Planeswalker â€” Betzalel</type>			
+			<type>Legendary Planeswalker - Betzalel</type>			
 			<pt></pt>
 			<loyalty>X</loyalty>
 			<tablerow>2</tablerow>			
@@ -419,7 +419,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature â€” Spirit</type>			
+			<type>Legendary Creature - Spirit</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -432,7 +432,7 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>3B</manacost>			
 			<cmc>4</cmc>			
 			<color>B</color>			
-			<type>Legendary Creature â€” Leviathan</type>			
+			<type>Legendary Creature - Leviathan</type>			
 			<pt>4/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Deathtouch
@@ -445,10 +445,10 @@ Remove four level counters from Tsuyo and Shina: Take an extra turn after this o
 			<manacost>GGG{W/U}{W/U}</manacost>			
 			<cmc>5</cmc>			
 			<color>UGW</color>			
-			<type>Legendary Creature â€” Elemental</type>			
+			<type>Legendary Creature - Elemental</type>			
 			<pt>6/6</pt>			
 			<tablerow>2</tablerow>			
-			<text>Landfall â€” Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
+			<text>Landfall - Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
 Elementals you control have â€œ{T}: Add one mana of any colorâ€ and are lands in addition to their other types.
 Lands you control produce one extra mana of any type that land could produce.</text>			
 		</card>
