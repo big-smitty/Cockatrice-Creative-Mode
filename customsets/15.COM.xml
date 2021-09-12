@@ -905,5 +905,31 @@ Shimuari, Dragon Soul can be your commander.</text>
 			<tablerow>2</tablerow>			
 			<text>Whenever one or more +1/+1 counters are placed on Captain Ronwell, create that many 1/1 white Soldier creature tokens. This ability can only trigger once per turn.</text>			
 		</card>	
+<card>			
+			<name>Sebastian Forgemaster</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1RW</manacost>			
+			<cmc>3</cmc>			
+			<color>RW</color>			
+			<type>Lengendary Creature — Human Artificer</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>
+			<related>Heart  Soul</related>			
+			<text>When Sebastian, Forgemaster enters the battlefield, create Heart & Soul, a legendary colorless Equipment artifact token with indestructible and equip 1.
+Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart & Soul gains “Equipped creature gains the chosen ability.”        </text>			
+		</card>	
+<card>			
+			<name>Heart  Soul</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1RW</manacost>			
+			<cmc>3</cmc>			
+			<color>RW</color>			
+			<type>Token Lengendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible
+Equip {1}
+Imbued—Equipped creature has all abilities chosen with Sebastian, Forgemaster        </text>			
+		</card>	
 	</cards>	
 </cockatrice_carddatabase>
