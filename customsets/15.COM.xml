@@ -780,7 +780,7 @@ Artifacts you control have power and toughness equal to the number of artifacts 
 			<manacost>CGU</manacost>			
 			<cmc>3</cmc>			
 			<color>GU</color>			
-			<type>Lengendary Artifact Creature — Beast</type>			
+			<type>Legendary Artifact Creature — Beast</type>			
 			<pt>1/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>Vigilance
@@ -792,7 +792,7 @@ When Fabricated Nature enters the battlefield, create a 3/3 Beast token for each
 			<manacost>7UB</manacost>			
 			<cmc>9</cmc>			
 			<color>UB</color>			
-			<type>Lengendary Creature — Leviathan</type>			
+			<type>Legendary Creature — Leviathan</type>			
 			<pt>9/9</pt>			
 			<tablerow>2</tablerow>			
 			<text>Islandwalk
@@ -806,7 +806,7 @@ When It That Lurks in the Deep enters the battlefield, exile all other creatres 
 			<manacost>2RR</manacost>			
 			<cmc>4</cmc>			
 			<color>R</color>			
-			<type>Lengendary Creature — Elemental</type>			
+			<type>Legendary Creature — Elemental</type>			
 			<pt>4/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>Haste, trample
@@ -818,7 +818,7 @@ Whenever Elazar, World Eater attacks, sacrifice any number of lands, Elementals 
 			<manacost>5WU</manacost>			
 			<cmc>7</cmc>			
 			<color>WU</color>			
-			<type>Lengendary Creature — Bird Wizard</type>			
+			<type>Legendary Creature — Bird Wizard</type>			
 			<pt>3/4</pt>			
 			<tablerow>2</tablerow>			
 			<text>Undaunted
@@ -831,7 +831,7 @@ Whenever a player casts an instant or sorcery spell that targets only a single c
 			<manacost>2BR</manacost>			
 			<cmc>4</cmc>			
 			<color>BR</color>			
-			<type>Lengendary Creature — Goblin</type>			
+			<type>Legendary Creature — Goblin</type>			
 			<pt>0/1</pt>			
 			<tablerow>2</tablerow>			
 			<text>{1}, {T}: Gort, the Lonely deals 1 damage to you.
@@ -843,7 +843,7 @@ If a source you control deals damage that would reduce your life total to less t
 			<manacost>GUB</manacost>			
 			<cmc>3</cmc>			
 			<color>GU</color>			
-			<type>Lengendary Creature — Elf</type>			
+			<type>Legendary Creature — Elf</type>			
 			<pt>3/3</pt>			
 			<tablerow>2</tablerow>			
 			<text>Menace
@@ -856,7 +856,7 @@ Creatures with corruption counters on them are lands with"{T}:Add one mana of an
 			<manacost>4RB</manacost>			
 			<cmc>6</cmc>			
 			<color>RB</color>			
-			<type>Lengendary Planeswalker — Ankou</type>			
+			<type>Legendary Planeswalker — Ankou</type>			
 			<pt></pt>
 			<loyalty>0</loyalty>			
 			<tablerow>2</tablerow>			
@@ -872,7 +872,7 @@ Ankou, Merciless Reaper can be your commander.
 			<manacost>3BB</manacost>			
 			<cmc>5</cmc>			
 			<color>B</color>			
-			<type>Lengendary Creature — Demon</type>			
+			<type>Legendary Creature — Demon</type>			
 			<pt>4/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>Flying
@@ -884,7 +884,7 @@ Whenever Herald of Intent attacks, search your library for a card and put that c
 			<manacost>3UU</manacost>			
 			<cmc>5</cmc>			
 			<color>U</color>			
-			<type>Lengendary Planeswalker — Shimuari</type>			
+			<type>Legendary Planeswalker — Shimuari</type>			
 			<pt></pt>			
 			<tablerow>2</tablerow>
 			<loyalty>7</loyalty>			
@@ -900,10 +900,23 @@ Shimuari, Dragon Soul can be your commander.</text>
 			<manacost>1W</manacost>			
 			<cmc>2</cmc>			
 			<color>W</color>			
-			<type>Lengendary Creature — Human Soldier</type>			
+			<type>Legendary Creature — Human Soldier</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>			
 			<text>Whenever one or more +1/+1 counters are placed on Captain Ronwell, create that many 1/1 white Soldier creature tokens. This ability can only trigger once per turn.</text>			
+		</card>	
+<card>			
+			<name>Heart Soul</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color>RW</color>			
+			<type>Token Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible
+Equip 1
+Imbued — Equipped creature gains all abilities chosen with Sebastian, Forgemaster.       </text>			
 		</card>	
 <card>			
 			<name>Sebastian Forgemaster</name>			
@@ -911,25 +924,12 @@ Shimuari, Dragon Soul can be your commander.</text>
 			<manacost>1RW</manacost>			
 			<cmc>3</cmc>			
 			<color>RW</color>			
-			<type>Lengendary Creature — Human Artificer</type>			
+			<type>Legendary Creature — Human Artificer</type>			
 			<pt>2/2</pt>			
 			<tablerow>2</tablerow>
-			<related>Heart  Soul</related>			
-			<text>When Sebastian, Forgemaster enters the battlefield, create Heart & Soul, a legendary colorless Equipment artifact token with indestructible and equip 1.
-Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart & Soul gains “Equipped creature gains the chosen ability.”        </text>			
-		</card>	
-<card>			
-			<name>Heart  Soul</name>			
-			<set picURL="" rarity="rare">COM</set>			
-			<manacost>1RW</manacost>			
-			<cmc>3</cmc>			
-			<color>RW</color>			
-			<type>Token Lengendary Artifact — Equipment</type>			
-			<pt></pt>			
-			<tablerow>2</tablerow>			
-			<text>Indestructible
-Equip {1}
-Imbued—Equipped creature has all abilities chosen with Sebastian, Forgemaster        </text>			
-		</card>	
+			<related>Heart Soul</related>		
+			<text>When Sebastian, Forgemaster enters the battlefield, create Heart Soul, a legendary colorless Equipment artifact token with indestructible and equip 1.
+Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart & Soul gains “Equipped creature gains the chosen ability.”</text>			
+		</card>
 	</cards>	
 </cockatrice_carddatabase>

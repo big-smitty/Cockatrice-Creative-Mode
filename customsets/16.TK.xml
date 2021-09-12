@@ -1,0 +1,18 @@
+<cards>        
+	<card>
+            <name>Heart Soul</name>
+            <text>Indestructible
+Equip {1}
+Imbued — Equipped creature gains all abilities chosen with Sebastian, Forgemaster.</text>
+            <prop>
+                <colors></colors>
+                <type>Token Legendary Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="">COM</set>
+            <reverse-related>Sebastian Forgemaster</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+</cards>
