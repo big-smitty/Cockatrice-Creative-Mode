@@ -49,6 +49,332 @@
 			Creatures you control have wither.</text>			
 		</card>
 <card>			
+			<name>Carrier of the Burden</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>2BB</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Creature - Zombie</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Other creatures with Wither you control deal double damage to players and planeswalkers.</text>			
+		</card>
+<card>			
+			<name>Grimward Grinning</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1B</manacost>			
+			<cmc>2</cmc>			
+			<color>WB</color>			
+			<type>Sorcery</type>
+			<tablerow>2</tablerow>			
+			<text>Create two 1/1 black and white Spirit creature tokens with flying.
+Fuse (You may cast one or both halves of this card from your hand.)
+Tap up to two target creatures.
+Create a treasure token.
+Fuse (You may cast one or both halves of this card from your hand.)
+</text>			
+		</card>
+<card>			
+			<name>Lepidopteran Predator</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>3R</manacost>			
+			<cmc>4</cmc>			
+			<color>R</color>			
+			<type>Creature - Dragon</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying, Haste
+At the beginning of your end step, you may have Lepidopteran Predator deal 2 damage to any target. If you do, sacrifice Lepidopteran Predator.</text>			
+		</card>
+<card>			
+			<name>Cold Snap</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1U</manacost>			
+			<cmc>2</cmc>			
+			<color>U</color>			
+			<type>Instant</type>	
+			<tablerow>2</tablerow>			
+			<text>Change target spell’s text by replacing all instances of the word “draw” with “discard”.</text>			
+		</card>
+<card>			
+			<name>Hellguider Angel</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1RW</manacost>			
+			<cmc>3</cmc>			
+			<color>RW</color>			
+			<type>Creature - Angel</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying
+				As an additional cost to cast Hellguider Angel, discard a card.
+Whenever Hellguider Angel attacks, you may draw a card. If you do, discard a card.</text>			
+		</card>
+<card>			
+			<name>Maddened Cryptguardian</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>BG</manacost>			
+			<cmc>2</cmc>			
+			<color>BG</color>			
+			<type>Creature - Human Warrior</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Haste
+Delirium — Whenever Maddened Cryptguardian deals damage, if there are four or more card types among cards in your graveyard, return a creature card from your graveyard to your hand.</text>			
+		</card>
+<card>			
+			<name>Starborn Harpy</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Creature - Harpy</type>			
+			<pt>3/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flash
+When Starborn Harpy enters the battlefield, target creature gets Hexproof until end of turn.</text>			
+		</card>
+<card>			
+			<name>Pantheonic Herald</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>4WW</manacost>			
+			<cmc>6</cmc>			
+			<color>W</color>			
+			<type>Creature - Demigod</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Whenever you attack with three or more Soldiers, draw a card.
+When Pantheonic Herald enters the battlefield, put three 1/1 white Soldier creature tokens on the battlefield under your control.</text>			
+		</card>
+<card>			
+			<name>Crypt Break</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>2B</manacost>			
+			<cmc>3</cmc>			
+			<color>B</color>			
+			<type>Sorcery</type>	
+			<tablerow>2</tablerow>			
+			<text>Until end of turn, creature cards in your graveyard gain dredge X, where X is their mana value. (If you would draw a card, you may mill X cards instead. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>			
+		</card>
+<card>			
+			<name>Enter Mecha</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>10</manacost>			
+			<cmc>10</cmc>				
+			<type>Sorcery</type>	
+			<tablerow>2</tablerow>			
+			<text>The player with the greatest devotion to any color sacrifices three permanents. (Each any in the mana costs of permanents you control counts toward your devotion to any.)
+If you have more artifacts than any other player, you take an extra turn after this one.</text>			
+		</card>
+<card>			
+			<name>Greater Battleship</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>6</manacost>			
+			<cmc>6</cmc>			
+			<color></color>			
+			<type>Artifact - Vehicle</type>			
+			<pt>0/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Trample, First strike, Non-basic landwalk (This creature can’t be blocked as long as defending player controls a non-basic land.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>			
+		</card>
+<card>			
+			<name>Junkyard Cruiser</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Artifact - Vehicle</type>			
+			<pt>0/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>			
+		</card>
+<card>			
+			<name>Flameproof Armor</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>2RR</manacost>			
+			<cmc>4</cmc>			
+			<color>R</color>			
+			<type>Artifact - Equipment</type>						
+			<tablerow>2</tablerow>			
+			<text>Equipped creature has protection from instants and sorceries. (This permanent can’t be targeted or dealt damage by instants and sorceries.)
+Equip RR</text>			
+		</card>
+<card>			
+			<name>Forgotten Megalith</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>3</manacost>			
+			<cmc>3</cmc>			
+			<color></color>			
+			<type>Creature - Giant Golem</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>When Forgotten Megalith enters the battlefield, exile another non-token creature you control. When Forgotten Megalith leaves the battlefield, return the exiled creature to play.
+Forgotten Megalith can’t attack or block.</text>			
+		</card>
+<card>			
+			<name>Exeunt</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>6</manacost>			
+			<cmc>6</cmc>			
+			<type>Sorcery</type>	
+			<tablerow>2</tablerow>			
+			<text>Exile target creature.
+Draw a card.</text>			
+		</card>
+<card>			
+			<name>Steadfast Couragemark</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1W</manacost>			
+			<cmc>2</cmc>			
+			<color>W</color>			
+			<type>Enchantment - Aura</type>	
+			<tablerow>2</tablerow>			
+			<text>Enchanted creature has vigilance and lifelink.</text>			
+		</card>
+<card>			
+			<name>Warding Staff</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>3</manacost>			
+			<cmc>3</cmc>	
+			<type>Artifact - Equipment</type>		
+			<tablerow>2</tablerow>			
+			<text>Equipped creature has hexproof.
+If damage would be dealt to equipped creature, prevent 1 of that damage.
+Equip 3</text>			
+		</card>
+<card>			
+			<name>Dresdens Control</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>2</manacost>			
+			<cmc>2</cmc>	
+			<type>Artifact - Equipment</type>	
+			<tablerow>2</tablerow>			
+			<text>Equipped creature has 
+“X, T: Target spell with mana value X that targets a single permanent instead targets a permanent of your choice.”
+Equip 2</text>			
+		</card>
+<card>			
+			<name>Excision Strike</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>XW</manacost>			
+			<cmc>1</cmc>			
+			<color>W</color>			
+			<type>Instant</type>		
+			<tablerow>2</tablerow>			
+			<text>If X is 0, tap target attacking creature.
+If X is greater than 0, instead exile target attacking creature unless its controller pays X.</text>			
+		</card>
+<card>			
+			<name>Send Home</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1WU</manacost>			
+			<cmc>3</cmc>			
+			<color>WU</color>			
+			<type>Sorcery</type>
+			<tablerow>2</tablerow>			
+			<text>Shuffle target creature and all permanents attached to it into their owner’s libraries.</text>			
+		</card>
+<card>			
+			<name>Annointed Torchbearer</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>1RW</manacost>			
+			<cmc>3</cmc>			
+			<color>WR</color>			
+			<type>Creature - Human Cleric</type>			
+			<pt>3/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Inspired — Whenever Annointed Torchbearer becomes untapped, you may pay RW. If you do, Annointed Torchbearer deals 3 damage to any target.</text>			
+		</card>
+<card>			
+			<name>Stumble upon the Unknown</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>1WUB</manacost>			
+			<cmc>4</cmc>			
+			<color>WUB</color>			
+			<type>Legendary Enchantment</type>	
+			<tablerow>2</tablerow>			
+			<text>At the beginning of each players upkeep, put an exploration counter on a creature they control without an exploration counter. Then that player gains control of and untaps all creatures with exploration counters until end of turn. If every creature that player controls has an exploration counter, sacrifice Stumble upon the Unknown.</text>			
+		</card>
+<card>			
+			<name>Strange Grove</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Land</type>	
+			<tablerow>2</tablerow>			
+			<text>Strange Grove enters the battlefield tapped.
+1, T: Add 1 for each +1/+1 counter that was placed on target creature this turn.</text>			
+		</card>
+<card>			
+			<name>New Threat</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>3G</manacost>			
+			<cmc>4</cmc>			
+			<color>G</color>			
+			<type>Instant</type>	
+			<tablerow>2</tablerow>			
+			<text>Each creature an opponent controls that attacked this turn and wasn’t blocked fights another creature with a different owner.</text>			
+		</card>
+<card>			
+			<name>Gaze in Horror</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>2WGB</manacost>			
+			<cmc>5</cmc>			
+			<color>WGB</color>			
+			<type>Sorcery</type>		
+			<tablerow>2</tablerow>			
+			<text>Tap all creatures with power or toughness less than 3, those creatures don’t untap the next time they would become untapped.
+Creatures with power or toughness greater than 5 gain menace until end of turn.</text>			
+		</card>
+<card>			
+			<name>Pathclearer Ranger</name>			
+			<set picURL="" rarity="Rare">VRS</set>			
+			<manacost>1RG</manacost>			
+			<cmc>2</cmc>			
+			<color>RG</color>			
+			<type>Creature - Human</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>1, T: Deal 2 damage to target creature. You lose 3 life.</text>			
+		</card>
+<card>			
+			<name>Hinder Intelligence</name>			
+			<set picURL="" rarity="Common">VRS</set>			
+			<manacost>GW</manacost>			
+			<cmc>2</cmc>			
+			<color>GW</color>			
+			<type>Instant</type>
+			<tablerow>2</tablerow>			
+			<text>Choose two —
+• Look at target opponents hand, then gain life equal to the amount of cards in their hand.
+• Target spell or ability that would cause a player to search their library instead causes that player to only search the top four cards of their library.
+• Target player shuffles their library.</text>			
+		</card>
+<card>			
+			<name>Reimagined Consciousness</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>3U</manacost>			
+			<cmc>4</cmc>			
+			<color>U</color>			
+			<type>Enchantment</type>		
+			<tablerow>2</tablerow>			
+			<text>When Reimagined Consiousness enters the battlefield, exile a creature you control.
+3U, T: Place a token copy of the exiled creature on the battlefield under your control. At the beginning of the next end step, exile the copy.</text>			
+		</card>
+<card>			
+			<name>Resquite Oasis</name>			
+			<set picURL="" rarity="Uncommon">VRS</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>		
+			<type>Land</type>	
+			<tablerow>2</tablerow>			
+			<text>T: Add 1 to your mana pool.
+4, T: The next spell you cast this turn has split second. This ability has split second. (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</text>			
+		</card>
+<card>			
 			<name>Raise and Train</name>			
 			<set picURL="" rarity="Rare">VRS</set>			
 			<manacost>4BB</manacost>			

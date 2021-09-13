@@ -58,6 +58,151 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<text>Be a Scary Dude</text>			
 		</card>
 <card>			
+			<name>Dresden the First</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacostr>2BUR</manacost>			
+			<cmc>5<bu/cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible
+If a player would cast an instant or sorcery that targets Dresden, the First, instead change the spell’s text by replacing all instances of the word “target” with “each”.
+If Dresden, the Second or Dresden, the Third is on the battlefield, Dresden, the First can not be cast.</text>			
+		</card>
+<card>			
+			<name>Dresden the Second</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacostr>2BUR</manacost>			
+			<cmc>5<bu/cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>First strike, Trample
+If an instant or sorcery would target one or more permanents, for each target, you may chose another permanent that player controls. The spell targets the chosen permanents.
+If Dresden, the First or Dresden, the Third is on the battlefield, Dresden, the Second can not be cast.</text>			
+		</card>
+<card>			
+			<name>Dresden the Third</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacostr>2BUR</manacost>			
+			<cmc>5<bu/cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
+Spells may not target permanents except Dresden, the Third.
+If Dresden, the Second or Dresden, the First is on the battlefield, Dresden, the Third can not be cast.</text>			
+		</card>
+<card>			
+			<name>Lavacast Sword</name>			
+			<set picURL="" rarity="Common">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Artifact — Equipment</type>		
+			<tablerow>2</tablerow>			
+			<text>Equip 2 (2: Attach to target creature you contorl. Equip only as a sorcery.)
+Equipped creature has “T: Deal 1 damage to any target”.</text>			
+		</card>
+<card>			
+			<name>Greater Stonewarden</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5</manacost>			
+			<cmc>5</cmc>			
+			<color></color>			
+			<type>Legendary Creature — Golem</type>			
+			<pt>0/8</pt>			
+			<tablerow>2</tablerow>			
+			<text>Defender
+Any ability that would trigger when a non-land permanent taps instead triggers once when that permanent enters the battlefield.
+When Greater Stonewarden enters the battlefield, exile target permanent. Then return that creature to the battlefield tapped under its owners control.  </text>			
+		</card>
+<card>			
+			<name>Skorne, Chaos Magister</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4R</manacost>			
+			<cmc>5</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Double strike
+RR, T: Each player discards their hand, then draws seven cards. If it’s your turn, end the turn.</text>			
+		</card>
+<card>			
+			<name>Shadowling Seeking the Real</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>BB</manacost>			
+			<cmc>2</cmc>			
+			<color>B</color>			
+			<type>Legendary Planeswalker — Shadowling</type>			
+			<loyalty>2</loyalty>			
+			<tablerow>2</tablerow>			
+			<text>+2: Create a creature token that enters the battlefield as a copy of target creature, except it is black, 1/1, and a Shadow in addition to its other types.
+-9: You get an emblem with “Creature tokens you control can be treated as though they aren’t tokens.”
+Shadowling, Seeking the Real can be your commander. If Shadowing is your commander, your deck may have cards of any color.</text>			
+		</card>
+<card>			
+			<name>Koth Heaven Imbued</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2RW</manacost>			
+			<cmc>4</cmc>			
+			<color>RW</color>			
+			<type>Legendary Planeswalker — Koth</type>			
+			<loyalty>4</loyalty>			
+			<tablerow>2</tablerow>			
+			<text>+1: Deal 2 damage to any target.
+-2: Create an artifact equipment called Lavacast Sword with Equip 2 and “Equipped creature has T: Deal 1 damage to any target”.
+-7: Deal 20 damage divided as you choose among any number of targets.
+Koth, Heaven Imbued can be your commander.</text>			
+		</card>
+<card>			
+			<name>Emblem Shadowling</name>			
+			<set picURL="" rarity="Common">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>B</color>			
+			<type>Emblem — Shadowling</type>	
+			<tablerow>2</tablerow>			
+			<text>“Creature tokens you control can be treated as though they aren’t tokens.”</text>			
+		</card>
+<card>			
+			<name>Abberant Aparation</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4GB</manacost>			
+			<cmc>6</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Skeleton Elder</type>			
+			<pt>5/6</pt>			
+			<tablerow>2</tablerow>			
+			<text>T: Each player reveals the top card of their library. They may cast that card this turn without playing it’s mana cost as though it had flash.</text>			
+		</card>
+<card>			
+			<name>Enter the Rectum</name>			
+			<set picURL="" rarity="Special">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Legendary Artifact — Food</type>
+			<tablerow>2</tablerow>			
+			<text>Solve for X: If a card was played this turn, you may play any card from your deck without paying it’s mana cost. You may not look at your deck to perform this action. If the card is a land, you must perform a sexual favor for your opponent. (You must show your work)</text>			
+		</card>
+<card>			
+			<name>Struumpenwizzen</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4WG</manacost>			
+			<cmc>6</cmc>			
+			<color>WG</color>			
+			<type>Legendary Creature — Dryad</type>			
+			<pt>2/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Imprint — When Struumpenwizzen enters the battlefield, you may exile target enchantment.
+T: You may pay the exiled card’s mana value. You may spend mana as though it were mana of any color to pay the cost. If you do, create a non-legendary token copy of the exiled card.</text>			
+		</card>
+<card>			
 			<name>Jin Ixis Psychic Dweller</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>2UR</manacost>			
@@ -66,7 +211,9 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 			<type>Legendary Creature — Dragon Illusion</type>			
 			<pt>1/5</pt>			
 			<tablerow>2</tablerow>			
-			<text>Almost as crazy as tyler about his girl buddies</text>			
+			<text>1, T: Tap or untap target creature.
+Other creatures you control have
+“T: Untap Jin Ixis, Psychic Dweller.”</text>			
 		</card>
 <card>			
 			<name>The First Head</name>			
