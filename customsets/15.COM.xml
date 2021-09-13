@@ -60,8 +60,8 @@ Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's p
 <card>			
 			<name>Dresden the First</name>			
 			<set picURL="" rarity="Rare">COM</set>			
-			<manacostr>2BUR</manacost>			
-			<cmc>5<bu/cmc>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
 			<color>BUR</color>			
 			<type>Legendary Creature — Human Wizard</type>			
 			<pt>4/3</pt>			
@@ -73,8 +73,8 @@ If Dresden, the Second or Dresden, the Third is on the battlefield, Dresden, the
 <card>			
 			<name>Dresden the Second</name>			
 			<set picURL="" rarity="Rare">COM</set>			
-			<manacostr>2BUR</manacost>			
-			<cmc>5<bu/cmc>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
 			<color>BUR</color>			
 			<type>Legendary Creature — Human Wizard</type>			
 			<pt>4/3</pt>			
@@ -86,8 +86,8 @@ If Dresden, the First or Dresden, the Third is on the battlefield, Dresden, the 
 <card>			
 			<name>Dresden the Third</name>			
 			<set picURL="" rarity="Rare">COM</set>			
-			<manacostr>2BUR</manacost>			
-			<cmc>5<bu/cmc>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
 			<color>BUR</color>			
 			<type>Legendary Creature — Human Wizard</type>			
 			<pt>4/3</pt>			
