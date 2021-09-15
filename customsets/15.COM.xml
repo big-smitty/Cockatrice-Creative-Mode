@@ -121,7 +121,7 @@ Any ability that would trigger when a non-land permanent taps instead triggers o
 When Greater Stonewarden enters the battlefield, exile target permanent. Then return that creature to the battlefield tapped under its owners control.  </text>			
 		</card>
 <card>			
-			<name>Skorne, Chaos Magister</name>			
+			<name>Skorne Chaos Magister</name>			
 			<set picURL="" rarity="Rare">COM</set>			
 			<manacost>4R</manacost>			
 			<cmc>5</cmc>			
@@ -139,9 +139,10 @@ RR, T: Each player discards their hand, then draws seven cards. If it’s your t
 			<cmc>2</cmc>			
 			<color>B</color>			
 			<type>Legendary Planeswalker — Shadowling</type>			
-			<loyalty>2</loyalty>			
+			<loyalty>2</loyalty>	
+			<related>Emblem Shadowling</related>		
 			<tablerow>2</tablerow>			
-			<text>+2: Create a creature token that enters the battlefield as a copy of target creature, except it is black, 1/1, and a Shadow in addition to its other types.
+			<text>+2: Create a creature token that enters the battlefield as a copy of target creature, except it is black, 0/1, and a Shadow in addition to its other types.
 -9: You get an emblem with “Creature tokens you control can be treated as though they aren’t tokens.”
 Shadowling, Seeking the Real can be your commander. If Shadowing is your commander, your deck may have cards of any color.</text>			
 		</card>
@@ -152,7 +153,8 @@ Shadowling, Seeking the Real can be your commander. If Shadowing is your command
 			<cmc>4</cmc>			
 			<color>RW</color>			
 			<type>Legendary Planeswalker — Koth</type>			
-			<loyalty>4</loyalty>			
+			<loyalty>4</loyalty>	
+			<related>Lavacast Sword</related>		
 			<tablerow>2</tablerow>			
 			<text>+1: Deal 2 damage to any target.
 -2: Create an artifact equipment called Lavacast Sword with Equip 2 and “Equipped creature has T: Deal 1 damage to any target”.
