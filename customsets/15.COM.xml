@@ -1055,6 +1055,19 @@ Shimuari, Dragon Soul can be your commander.</text>
 			<text>Whenever one or more +1/+1 counters are placed on Captain Ronwell, create that many 1/1 white Soldier creature tokens. This ability can only trigger once per turn.</text>			
 		</card>	
 <card>			
+			<name>Legion Cryptkeeper</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>B</manacost>			
+			<cmc>1</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Zombie Cleric</type>			
+			<pt>3/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Break {T}: Legion Cryptkeeper enters the battlefield tapped, and doesn't untap during your untap step.
+Break {4}{B}: Creatures can't enter the battlefield from your graveyard.
+Whenever Legion Cryptkeeper becomes tapped, return a creature from your graveyard to the battlefield.</text>			
+		</card>	
+<card>			
 			<name>Heart Soul</name>			
 			<set picURL="" rarity="rare">COM</set>			
 			<manacost></manacost>			
