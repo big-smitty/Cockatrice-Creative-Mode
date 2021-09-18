@@ -142,8 +142,8 @@ RR, T: Each player discards their hand, then draws seven cards. If it’s your t
 			<loyalty>2</loyalty>	
 			<related>Emblem Shadowling</related>		
 			<tablerow>2</tablerow>			
-			<text>+2: Create a creature token that enters the battlefield as a copy of target creature, except it is black, 0/1, and a Shadow in addition to its other types.
--9: You get an emblem with “Creature tokens you control can be treated as though they aren’t tokens.”
+			<text>+1: You may discard a card. If you do, create a creature token that enters the battlefield as a copy of target creature, except it is black, 0/1, and a Shadow in addition to its other types.
+-6: You get an emblem with “Creature tokens you control can be treated as though they aren’t tokens.”
 Shadowling, Seeking the Real can be your commander. If Shadowing is your commander, your deck may have cards of any color.</text>			
 		</card>
 <card>			

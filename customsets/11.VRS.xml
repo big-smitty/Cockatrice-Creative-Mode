@@ -263,7 +263,7 @@ Equip 2</text>
 			<color>W</color>			
 			<type>Instant</type>		
 			<tablerow>2</tablerow>			
-			<text>If X is 0, tap target attacking creature.
+			<text>If X is 0, untap target attacking creature and remove it from combat.
 If X is greater than 0, instead exile target attacking creature unless its controller pays X.</text>			
 		</card>
 <card>			
