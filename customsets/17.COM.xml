@@ -1091,7 +1091,183 @@ Imbued — Equipped creature gains all abilities chosen with Sebastian, Forgemas
 			<tablerow>2</tablerow>
 			<related>Heart Soul</related>		
 			<text>When Sebastian, Forgemaster enters the battlefield, create Heart Soul, a legendary colorless Equipment artifact token with indestructible and equip 1.
-Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart & Soul gains “Equipped creature gains the chosen ability.”</text>			
+Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart and Soul gains “Equipped creature gains the chosen ability.”</text>			
+		</card>
+<card>			
+			<name>Tinthal Blessed</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3WW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Rather than pay 2 for each previous time you’ve cast this spell from the command zone this game, you may pay W that many times.
+Lifelink
+For each 2 in a cost, you may pay W rather than pay that mana.</text>			
+		</card>
+<card>			
+			<name>Jon Salis, Herald of the Gods</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>8</manacost>			
+			<cmc>8</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Eminence — As long as Jon Salis, Herald of the Gods is in the command zone, other God cards you cast cost 1 less, and count as creatures.
+Jon Salis, Herald of the Gods counts as all colors.
+If you control 5 non-token God creatures without Changeling, you win the game.</text>			
+		</card>
+<card>			
+			<name>Ur-Dragon, Hordemaster</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4WUBRG</manacost>			
+			<cmc>9</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Dragon Avatar</type>			
+			<pt>10/10</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Flying
+When Ur-Dragon, Hordemaster attacks, you may search your library for a Dragon card and put it on the battlefield tapped and attacking. Then shuffle your library.</text>			
+		</card>
+<card>			
+			<name>NT-AE-409, Overhaul Bot</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4C</manacost>			
+			<cmc>5</cmc>			
+			<color>C</color>			
+			<type>Legendary Planeswalker — NT-AE-409</type>			
+			<pt>4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>+2 - Add CC to your mana pool.
++2 Another target permanent gains indestructible until your next turn.
+NT-Æ-409, Overhaul Bot may be your commander.</text>			
+		</card>
+<card>			
+			<name>Jin Fura, the Paramount</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2WWW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Lion</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 6W - Whenever another player casts a spell, you may cast a spell of lesser mana value from your hand without paying it’s mana cost.
+				Break 6W - You decide each player’s attacking and blocking creatures during each combat phase.
+				Flying, Vigilance</text>			
+		</card>
+<card>			
+			<name>Rinstha, Ichor-blooded</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>G/B</manacost>			
+			<cmc>1</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Elf Zombie</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 4G: At the beginning of your upkeep, you get a poison counter.
+				Break 4B: Whenever a creature dies, you get a poison counter.
+				Infect</text>			
+		</card>
+<card>			
+			<name>Ulbarrein, Born of Roots</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3GR</manacost>			
+			<cmc>5</cmc>			
+			<color>GR</color>			
+			<type>Legendary Creature — Dragon</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break T: Ulbarrein, Born of Roots can’t block, and loses flying. (+5/+5)
+				Break T: Ulbarrein, Born of Roots can’t attack, and loses flying. (+5/+5)
+				Flying, Trample</text>			
+		</card>
+<card>			
+			<name>Gin and Hena, Twin Wizards</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2GU</manacost>			
+			<cmc>4</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>2/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Bind Y: Exile a nonland permanent you control from the battlefield or your hand. Y is that cards mana cost.
+				Bind Y: X is 0
+				X, T: Create a token copy of the exiled card. X is that cards mana cost.</text>			
+		</card>
+<card>			
+			<name>Jin Jonah, Torchbearer</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>RRR</manacost>			
+			<cmc>3</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>1/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>When a source you control would deal damage, you may instead Charge-up. (Give this card that many charge counters.)
+R, remove X charge counters: Deal X damage to any target.</text>			
+		</card>
+<card>			
+			<name>Arwyl, the Imagined</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2WG</manacost>			
+			<cmc>4</cmc>			
+			<color>WG</color>			
+			<type>Legendary Creature — Dragon Illusion</type>			
+			<pt>0/2</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>3, Discard two cards: Shuffle Arwyl, the Imagined into your library. Until Arwyl enters another zone, when you would draw a card, you may instead scry 5.</text>			
+		</card>
+<card>			
+			<name>Nid-Zanith, Lustful for Life</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1WB</manacost>			
+			<cmc>3</cmc>			
+			<color>WB</color>			
+			<type>Legendary Creature — Skeleton</type>		
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Vigilance, Haste, Persist
+When Nid-Zanith, Lustful for Life enters your hand, library, command zone, graveyard, or exile, you may pay it’s mana cost. If you do, put Nid-Zanith, Lustful for Life on the battlefield.</text>			
+		</card>
+<card>			
+			<name>Skinbasin Atog</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3RG</manacost>			
+			<cmc>5</cmc>			
+			<color>RG</color>			
+			<type>Legendary Creature — Atog</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>0: Skinbasin Atog gets a +1/+1 counter. You skip your next untap, draw, combat, or main phases. You may activate up to four times each turn.</text>			
+		</card>
+<card>			
+			<name>Sona, Exquisite Angel</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4RW</manacost>			
+			<cmc>6</cmc>			
+			<color>RW</color>			
+			<type>Legendary Artifact Creature — Angel</type>		
+			<pt>6/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 4C:You may only break if you control 6 or more artifacts.
+				Break 6C:As an additional cost to break, sacrifice 4 permanents.
+			Flying, Double strike
+T: Target player loses the game. You may only use this ability if you’ve broken twice.</text>			
 		</card>
 	</cards>	
 </cockatrice_carddatabase>

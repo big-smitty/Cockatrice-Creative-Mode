@@ -1,0 +1,1273 @@
+<?xml version="1.0" ?><cockatrice_carddatabase version="3">	
+	<sets>		
+		<set>			
+			<name>COM</name>			
+			<longname>Commander Buddies</longname>			
+			<settype>Expansion</settype>			
+			<releasedate>2020-12-30</releasedate>			
+		</set>		
+	</sets>	
+	<cards>			
+	<card>			
+		<name>Ellysia Elite Captain</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>2GG</manacost>
+		<cmc>4</cmc>			
+		<color>G</color>			
+		<type>Planeswalker — Ellysia</type>
+		<loyalty>4</loyalty>
+		<tablerow>2</tablerow>
+		<text>[+1]: Create a 2/2 green Elf Warrior creature token with “When this creature deals damage, put a loyalty counter on an Ellysia planeswalker you control.”
+[0]: Until end of turn, Ellysia, Elite Captain becomes an indestructible Elf Warrior creature with power and toughness equal to the number of loyalty counters on her. She’s still a planeswalker. Prevent all damage that would be dealt to her this turn.
+[-7]: You get an emblem with “Whenever a creature you control attacks, you may have it deal damage equal to its power to any target.”
+Ellysia, Elite Captain can be your commander.
+</text>
+	</card>
+	<card>			
+		<name>Iwato</name>
+		<set picURL="" rarity="Rare">COM</set>
+		<manacost>1RRRR</manacost>
+		<cmc>5</cmc>			
+		<color>R</color>			
+		<type>Legendary Creature — Beast</type>
+		<pt>1/10</pt>
+		<tablerow>2</tablerow>
+		<text>Trample, haste
+Whenever Iwato attacks, flip a coin. If you win the flip, you may swap Iwato's power and toughness until end of turn.</text>
+	</card>
+<card>			
+			<name>Jangle Flaccid King</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>2RB</manacost>			
+			<cmc>4</cmc>			
+			<color>RB</color>			
+			<type>Legendary Creature — Goblin</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Win big go home</text>			
+		</card>
+<card>			
+			<name>Jo-Ja Underworld Bane</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>RW</manacost>			
+			<cmc>2</cmc>			
+			<color>RW</color>			
+			<type>Legendary Creature — Praetor</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Be a Scary Dude</text>			
+		</card>
+<card>			
+			<name>Dresden the First</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible
+If a player would cast an instant or sorcery that targets Dresden, the First, instead change the spell’s text by replacing all instances of the word “target” with “each”.
+If Dresden, the Second or Dresden, the Third is on the battlefield, Dresden, the First can not be cast.</text>			
+		</card>
+<card>			
+			<name>Dresden the Second</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>First strike, Trample
+If an instant or sorcery would target one or more permanents, for each target, you may chose another permanent that player controls. The spell targets the chosen permanents.
+If Dresden, the First or Dresden, the Third is on the battlefield, Dresden, the Second can not be cast.</text>			
+		</card>
+<card>			
+			<name>Dresden the Third</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2BUR</manacost>			
+			<cmc>5</cmc>			
+			<color>BUR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
+Spells may not target permanents except Dresden, the Third.
+If Dresden, the Second or Dresden, the First is on the battlefield, Dresden, the Third can not be cast.</text>			
+		</card>
+<card>			
+			<name>Lavacast Sword</name>			
+			<set picURL="" rarity="Common">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Artifact — Equipment</type>		
+			<tablerow>2</tablerow>			
+			<text>Equip 2 (2: Attach to target creature you contorl. Equip only as a sorcery.)
+Equipped creature has “T: Deal 1 damage to any target”.</text>			
+		</card>
+<card>			
+			<name>Greater Stonewarden</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5</manacost>			
+			<cmc>5</cmc>			
+			<color></color>			
+			<type>Legendary Creature — Golem</type>			
+			<pt>0/8</pt>			
+			<tablerow>2</tablerow>			
+			<text>Defender
+Any ability that would trigger when a non-land permanent taps instead triggers once when that permanent enters the battlefield.
+When Greater Stonewarden enters the battlefield, exile target permanent. Then return that creature to the battlefield tapped under its owners control.  </text>			
+		</card>
+<card>			
+			<name>Skorne Chaos Magister</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4R</manacost>			
+			<cmc>5</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>4/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Double strike
+RR, T: Each player discards their hand, then draws seven cards. If it’s your turn, end the turn.</text>			
+		</card>
+<card>			
+			<name>Shadowling Seeking the Real</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>BB</manacost>			
+			<cmc>2</cmc>			
+			<color>B</color>			
+			<type>Legendary Planeswalker — Shadowling</type>			
+			<loyalty>2</loyalty>	
+			<related>Emblem Shadowling</related>		
+			<tablerow>2</tablerow>			
+			<text>+1: You may discard a card. If you do, create a creature token that enters the battlefield as a copy of target creature, except it is black, 0/1, and a Shadow in addition to its other types.
+-6: You get an emblem with “Creature tokens you control can be treated as though they aren’t tokens.”
+Shadowling, Seeking the Real can be your commander. If Shadowing is your commander, your deck may have cards of any color.</text>			
+		</card>
+<card>			
+			<name>Koth Heaven Imbued</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2RW</manacost>			
+			<cmc>4</cmc>			
+			<color>RW</color>			
+			<type>Legendary Planeswalker — Koth</type>			
+			<loyalty>4</loyalty>	
+			<related>Lavacast Sword</related>		
+			<tablerow>2</tablerow>			
+			<text>+1: Deal 2 damage to any target.
+-2: Create an artifact equipment called Lavacast Sword with Equip 2 and “Equipped creature has T: Deal 1 damage to any target”.
+-7: Deal 20 damage divided as you choose among any number of targets.
+Koth, Heaven Imbued can be your commander.</text>			
+		</card>
+<card>			
+			<name>Emblem Shadowling</name>			
+			<set picURL="" rarity="Common">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>B</color>			
+			<type>Emblem — Shadowling</type>	
+			<tablerow>2</tablerow>			
+			<text>“Creature tokens you control can be treated as though they aren’t tokens.”</text>			
+		</card>
+<card>			
+			<name>Abberant Aparation</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4GB</manacost>			
+			<cmc>6</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Skeleton Elder</type>			
+			<pt>5/6</pt>			
+			<tablerow>2</tablerow>			
+			<text>T: Each player reveals the top card of their library. They may cast that card this turn without playing it’s mana cost as though it had flash.</text>			
+		</card>
+<card>			
+			<name>Enter the Rectum</name>			
+			<set picURL="" rarity="Special">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Legendary Artifact — Food</type>
+			<tablerow>2</tablerow>			
+			<text>Solve for X: If a card was played this turn, you may play any card from your deck without paying it’s mana cost. You may not look at your deck to perform this action. If the card is a land, you must perform a sexual favor for your opponent. (You must show your work)</text>			
+		</card>
+<card>			
+			<name>Struumpenwizzen</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4WG</manacost>			
+			<cmc>6</cmc>			
+			<color>WG</color>			
+			<type>Legendary Creature — Dryad</type>			
+			<pt>2/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Imprint — When Struumpenwizzen enters the battlefield, you may exile target enchantment.
+T: You may pay the exiled card’s mana value. You may spend mana as though it were mana of any color to pay the cost. If you do, create a non-legendary token copy of the exiled card.</text>			
+		</card>
+<card>			
+			<name>Jin Ixis Psychic Dweller</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2UR</manacost>			
+			<cmc>4</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature — Dragon Illusion</type>			
+			<pt>1/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>1, T: Tap or untap target creature.
+Other creatures you control have
+“T: Untap Jin Ixis, Psychic Dweller.”</text>			
+		</card>
+<card>			
+			<name>The First Head</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature — Demon Chimera</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>You know, if its a guy chimera it technically has three heads</text>			
+		</card>
+<card>			
+			<name>The Second Head</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost></manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature Token</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Unless Chimeras are just built different. Could have four, you never know unless you care to check...</text>			
+		</card>
+<card>			
+			<name>Rotten Hidefinder</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3{G/P}{B/P}</manacost>			
+			<cmc>5</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Zombie Dinosaur</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>mangled and falling apart at the seams, just like my life and faith in my future</text>			
+		</card>
+<card>			
+			<name>Redwood Guardian</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4GG</manacost>			
+			<cmc>6</cmc>			
+			<color>G</color>			
+			<type>Legendary Creature — Treefolk Beast</type>			
+			<pt>2/10</pt>			
+			<tablerow>2</tablerow>			
+			<text>You notice that it only has 1 ear? Weird flex but ok. Also, fun fact, the girls name is canonically named Antimony, from a comic called GunnerKrig</text>			
+		</card>
+<card>			
+			<name>Gravotronic Nightmare</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UBR</manacost>			
+			<cmc>4</cmc>			
+			<color>UBR</color>			
+			<type>Legendary Creature — Nightmare</type>			
+			<pt>6/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>YOINK your booty is my looty</text>			
+		</card>
+<card>			
+			<name>End of the World Bunker</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>C</color>			
+			<type>Legendary Land</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Hide away, little commander. Here's a toast to new and ingenious cards</text>			
+		</card>
+<card>			
+			<name>Seismic Construction</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>big stompy</text>			
+		</card>
+<card>			
+			<name>Superalloy Stabilizers</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>He ain't goin anywhere</text>			
+		</card>
+<card>			
+			<name>Atomic Momentum</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Z O O M</text>			
+		</card>
+<card>			
+			<name>Nanoreplicator Array</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Who's on first? Who's on First?</text>			
+		</card>
+<card>			
+			<name>Flare Generator</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Pocket Sand  (!)</text>			
+		</card>
+<card>			
+			<name>Gigantic Proportions</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Dont spend too much time thinking about how a modular enhancement makes the dude big</text>			
+		</card>
+<card>			
+			<name>Maria Modern Marvel</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color>W</color>			
+			<type>Legendary Artifact Creature — Maria</type>			
+			<pt>10/10</pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible, protection from non-artifact spells, abilities, and creatures.
+			When Maria, Modern Marvel enters the battlefield or attacks, you may attach any number of modular enhancements to it without paying their equip costs. </text>			
+		</card>
+<card>			
+			<name>Taranis, the Avenger</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>1UWB</manacost>			
+			<cmc>5</cmc>			
+			<color>UWB</color>			
+			<type>Legendary Creature — Spirit Knight</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Hexproof
+If a creature dying or entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>			
+		</card>
+<card>			
+			<name>Maria Astartian Mecha</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5WW</manacost>			
+			<cmc>7</cmc>			
+			<color>W</color>			
+			<type>Legendary Planeswalker — Maria</type>			
+			<pt>10</pt>			
+			<tablerow>2</tablerow>			
+			<text>+1 Add a loyalty counter to Maria, Astartian Mecha for each artifact you control.
+			-6 Create one of six Maria’s Modular enhancements, which are Legendary Equipment tokens.
+			-12 Create a legendary artifact creature token called Maria, Modern Marvel.
+			Maria, Astartian Mecha can be your commander.</text>			
+		</card>
+<card>			
+			<name>Arwyl  Thomas</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1GG</manacost>			
+			<cmc>3</cmc>			
+			<color>G</color>			
+			<type>Legendary Planeswalker — Arwyl and Thomas</type>			
+			<pt>3</pt>			
+			<tablerow>2</tablerow>			
+			<text>+2 Until the beginning of your next upkeep, non-land permanents you control with mana value 1 or less have indestructible and hexproof.
+			-4 Choose a non-land permanent with mana value 1 or less on the battlefield. Until your next upkeep, all non-land permanents you control with mana value 1 become copies of that permanent.
+			-8 Create a Legendary creature token called Thomas, Pretender that is a 1/1 human with mana value 1 and 
+has “T: Counter target spell or ability”
+			Arwyl  Thomas can be your commander.</text>			
+		</card>
+<card>			
+			<name>Thomas Pretender</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>1</cmc>			
+			<color>G</color>			
+			<type>Legendary Creature — Human Token</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Thomas, Pretender has mana value 1.
+T: Counter target spell or ability.   </text>			
+		</card>
+<card>			
+			<name>Zhumbo-Boyi Bihgol Wanderer</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>GWU</manacost>			
+			<cmc>3</cmc>			
+			<color>GWU</color>			
+			<type>Legendary Creature — Golem Nomad</type>			
+			<pt>2/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>At the beginning of each player’s upkeep, put an exploration counter on a land that player controls. Then, that player gains control of and untaps all lands with exploration counters until end of turn.</text>			
+		</card>
+<card>			
+			<name>Scoria Shadow Lurking</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1BBBB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Dragon</type>			
+			<pt>*/*</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying, shadow (This creature can block or be blocked by only creatures with shadow.)
+Chroma — Scoria’s power and toughness are equal to your devotion to black.</text>			
+		</card>
+<card>			
+			<name>The Beast of Ghrazen-Tor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5B</manacost>			
+			<cmc>6</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Nightstalker</type>			
+			<pt>3/5</pt>			
+			<tablerow>2</tablerow>			
+			<text>When The Beast of Ghrazen-Tor attacks, it gains indestructible until end of turn.
+1W, T: Target creature cannot be blocked this turn.
+1R, T: The Beast of Ghrazen-Tor deals 4 damage to any target.
+1U, T: Reveal a card in your hand. Until your next turn, that card has flash.
+1G, T: Target creature you control fights target creature you don’t control.</text>			
+		</card>
+<card>			
+			<name>Hor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1BB</manacost>			
+			<cmc>3</cmc>			
+			<color>BW</color>			
+			<type>Legendary Creature — Horror</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>When Hor enters the battlefield, sacrifice it unless it escaped.
+Whenever Hor enters the battlefield or attacks, destroy a creature, then you may draw a card.
+Escape 1WWBB (You may cast this card from your graveyard for its escape cost.)</text>			
+		</card>
+<card>			
+			<name>Jumpy Snorter of Elmers Glue</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>69L{E}{E}</manacost>			
+			<cmc>420</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Poopy Butt</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text>If you can convince an opponent to let you activate this ability, roll a D100. If the roll is even or 69, you gain 420 life. Otherwise, you must get them a drink of their choice, or snort Elmer’s Glue ™</text>			
+		</card>
+	<card>			
+		<name>Orzahal the Demon Blade</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>1WBR</manacost>
+		<cmc>4</cmc>			
+		<color>WBR</color>			
+		<type>Legendary Artifact Creature — Demon Equipment</type>
+		<pt>6/6</pt>
+		<tablerow>2</tablerow>
+		<text>Orzahal, the Demon Blade has all abilities of the equipped creature and can only attack or block with the equipped creature.
+Equip {3}
+Equipped creature has flying and trample and can only attack or block with Orzahal, the Demon Blade.</text>
+	</card>
+<card>			
+			<name>Rejected Jester</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WWUUGG</manacost>			
+			<cmc>8</cmc>			
+			<color>WUG</color>			
+			<type>Legendary Creature — Human</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>This card is stupid and if you play it you're a coward.</text>			
+		</card>
+<card>			
+			<name>Snowblast Primordial</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WWW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Bird Avatar</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Snow Bro</text>			
+		</card>
+<card>			
+			<name>Betzalel, the Undying</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>UGW</color>			
+			<type>Legendary Planeswalker — Betzalel</type>			
+			<pt></pt>
+			<loyalty>X</loyalty>
+			<tablerow>2</tablerow>			
+			<text></text>			
+		</card>
+	<card>			
+		<name>Tsuyo and Shina</name>
+		<set picURL="" rarity="Mythic Rare">COM</set>
+		<manacost>1GU</manacost>
+		<cmc>3</cmc>			
+		<color>GU</color>			
+		<type>Legendary Creature — Dragon Monk</type>
+		<pt>3/3</pt>
+		<tablerow>2</tablerow>
+		<text>Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 4-6
+5/5
+Remove a level counter from Tsuyo and Shina: They gain hexproof and indestructible until end of turn.
+LEVEL 7+
+6/6
+Remove four level counters from Tsuyo and Shina: Take an extra turn after this one.</text>
+	</card>
+<card>			
+			<name>Twysler Warscorned Sentinel</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>GGUU</manacost>			
+			<cmc>4</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature — Human Mystic</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Tyler and Michael are sitting in a tree, k i s s i n g</text>			
+		</card>		
+<card>			
+			<name>Gilsea Descendent Hero</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4BB</manacost>			
+			<cmc>6</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Human Rogue</type>			
+			<pt>3/6</pt>			
+			<tablerow>2</tablerow>			
+			<text> Deathtouch girl</text>			
+		</card>
+<card>			
+			<name>Nevara, the Flying Terror</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Spirit</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>	
+<card>			
+			<name>Nayra, Nature's Revival</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Spirit</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>
+<card>			
+			<name>Asmodeus, Storm's Peril</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>3B</manacost>			
+			<cmc>4</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Leviathan</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Deathtouch
+			At the beginning of your upkeep, put a -1/-1 counter on target creature.
+			Creatures you control have wither.</text>			
+		</card>
+<card>			
+			<name>Aeoheim</name>			
+			<set picURL="" rarity="Mythic Rare">COM</set>			
+			<manacost>GGG{W/U}{W/U}</manacost>			
+			<cmc>5</cmc>			
+			<color>UGW</color>			
+			<type>Legendary Creature — Elemental</type>			
+			<pt>6/6</pt>			
+			<tablerow>2</tablerow>			
+			<text>Landfall — Whenever a land enters the battlefield under your control you may gain 3 life or draw a card.
+Elementals you control have â€œ{T}: Add one mana of any colorâ€ and are lands in addition to their other types.
+Lands you control produce one extra mana of any type that land could produce.</text>			
+		</card>
+<card>			
+			<name>Jinsa Full of Fury</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BRGW</manacost>			
+			<cmc>4</cmc>			
+			<color>BRGW</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>3/1</pt>			
+			<tablerow>2</tablerow>			
+			<text> Wow she is kinda hot ngl</text>			
+		</card>	
+<card>			
+			<name>Ib Nixus Rescindent</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BGW</manacost>			
+			<cmc>3</cmc>			
+			<color>BGW</color>			
+			<type>Legendary Creature — Dragon Elder</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> This is a big scary Dragon, but it isn't as scary as Tyler after burritos</text>			
+		</card>		
+<card>			
+			<name>Lunari the Morning Sun</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1GU</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature — Bird Faerie</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Triggerd ability (TRIGGEREDDD)</text>			
+		</card>	
+<card>			
+			<name>Krinos Forged God</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>RGW</manacost>			
+			<cmc>3</cmc>			
+			<color>RGW</color>			
+			<type>Legendary Planeswalker — Krinos</type>			
+			<pt>0</pt>			
+			<tablerow>2</tablerow>			
+			<text> Lets be honest if this doesn't break the game nothing will</text>			
+		</card>	
+<card>			
+			<name>Zurelia Dark Temptress</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Demon</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text> Swiggity Swooty, ur commander is my booty</text>			
+		</card>					
+		<card>			
+			<name>Borg, Master Automater</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>7</manacost>			
+			<cmc>7</cmc>			
+			<color></color>			
+			<type>Legendary Artifact Creature — Golem</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text>Affinity for artifacts
+Artifacts you control have power and toughness equal to the number of artifacts you control and are creatures in addition to their other types.</text>			
+		</card>	
+<card>			
+			<name>Xydril the Augmentor</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>5UR</manacost>			
+			<cmc>7</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>3/7</pt>			
+			<tablerow>2</tablerow>			
+			<text> He's cold in the streets, he's hot in the sheets.  Xydril.  He's the perfect man.</text>			
+		</card>
+<card>			
+			<name>Jerda Most Lethal</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BR</manacost>			
+			<cmc>5</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature — Human Warrior</type>			
+			<pt>6/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> Someone raised him well.  He comes from good crop.</text>			
+		</card>
+<card>			
+			<name>Doubleday Reflector</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UR</manacost>			
+			<cmc>3</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature — Reflection</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
+		</card>	
+<card>			
+			<name>Phyrexian Hatchery</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2GB</manacost>			
+			<cmc>4</cmc>			
+			<color>Gb</color>			
+			<type>Legendary Creature — Zombie Egg</type>			
+			<pt>0/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>eww ewww ewwwwww</text>			
+		</card>
+<card>			
+			<name>Sintel Exultant and Bellicose</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>8</manacost>			
+			<cmc>8</cmc>			
+			<color>RGW</color>			
+			<type>Legendary Creature — Dinosaur</type>			
+			<pt>6/7</pt>			
+			<tablerow>2</tablerow>			
+			<text>He'a big boy. In layman terms, hes loud and annoying.</text>			
+		</card>
+<card>			
+			<name>Antis Wall of Text</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>0</manacost>			
+			<cmc>0</cmc>			
+			<color></color>			
+			<type>Legendary Land — Plains Island Swamp Mountain Forest</type>			
+			<pt>0</pt>			
+			<tablerow>2</tablerow>			
+			<text> heh</text>			
+		</card>
+<card>			
+			<name>Assassin Girl</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Human Assassin</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>			
+			<text> She puts the butt in assassin. It's the last thing you'll see before you die.</text>		
+		</card>
+<card>			
+			<name>Myrim Juggler</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>WUBRG</manacost>			
+			<cmc>5</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Shapeshifter</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> WUBRG</text>			
+		</card>
+<card>			
+			<name>Avram Flickering Light</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>BW</manacost>			
+			<cmc>2</cmc>			
+			<color>BW</color>			
+			<type>Legendary Creature — Dragon Spirit</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Flicker in a body I guess.  He looks cool, it ur into glo stick bois</text>			
+		</card>
+<card>			
+			<name>Beeble Feeble Torchbearer</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>R</manacost>			
+			<cmc>R</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Goblin</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Lets be honest if magic were real youd never beat the goblins.  Theyre too powerful.  Kamikaze little bastrds.</text>			
+		</card>
+<card>			
+			<name>Creature from the Abyss</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3GUB</manacost>			
+			<cmc>6</cmc>			
+			<color>GUB</color>			
+			<type>Legendary Creature — Horror</type>			
+			<pt>6/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>I forgot what delve is. There's probably a joke here somewhere. *Shuffles papers* *ahem* this fkn joke will be the delve of me.</text>			
+		</card>
+<card>			
+			<name>Eater of Worlds</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2WBR</manacost>			
+			<cmc>5</cmc>			
+			<color>WBR</color>			
+			<type>Legendary Creature — Hellion</type>			
+			<pt>6/5</pt>			
+			<tablerow>2</tablerow>			
+			<text> Yeah im still bigger where it counts ;) talkin about my huge throbbing nose</text>			
+		</card>
+<card>			
+			<name>Haunt of Innistrad</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3R/U/B</manacost>			
+			<cmc>4</cmc>			
+			<color>RUB</color>			
+			<type>Legendary Creature — Shapeshifter</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text> No u. No u.</text>			
+		</card>
+<card>			
+			<name>Illexiad Unbound</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1WB</manacost>			
+			<cmc>3</cmc>			
+			<color>WB</color>			
+			<type>Legendary Creature — Zombie Warrior</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>That armor is mega impractical but im a monkeys uncle if it isnt wicked good lookin</text>			
+		</card>
+<card>			
+			<name>Kalhelm Legendary Tactician</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2RW</manacost>			
+			<cmc>4</cmc>			
+			<color>RW</color>			
+			<type>Legendary Creature — Skeleton Warrior</type>			
+			<pt>3/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> Pew Pew</text>			
+		</card>
+<card>			
+			<name>Miriam Enchantress</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>3GW</manacost>			
+			<cmc>5</cmc>			
+			<color>GW</color>			
+			<type>Legendary Creature — Human Druid</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text> Enchantments I guess?  I can't pay attention. Too distracted by the bust on this broad. Sorry tilr, ur the one who picked the art</text>			
+		</card>
+<card>			
+			<name>Myth of the Shadow Lord</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>XBB</manacost>			
+			<cmc>2</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Shade</type>			
+			<pt>0/0</pt>			
+			<tablerow>2</tablerow>			
+			<text> Spooky dooky dude.  I hope you forgot your sunblock, this guy has got you covered instead.</text>			
+		</card>
+<card>			
+			<name>Sira the Unstopping Wave</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>U</manacost>			
+			<cmc>1</cmc>			
+			<color>U</color>			
+			<type>Legendary Creature — Merfolk Zombie</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Glub</text>			
+		</card>
+<card>			
+			<name>Sister Adley</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1W</manacost>			
+			<cmc>2</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Remember that Grizzly Bears is a 3/3?  This priestess, who I assume just up and joined the clergy right out of highschool and took an oath of sobriety and abstinence, can apparently tag team herself to take down a bear. Probably just overpowered from that wicked looking headress she's wearing.  No, you need flavor text.</text>			
+		</card>
+<card>			
+			<name>The Elder Deepfiend</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>7UB</manacost>			
+			<cmc>9</cmc>			
+			<color>UB</color>			
+			<type>Legendary Creature — Leviathan</type>			
+			<pt>9/9</pt>			
+			<tablerow>2</tablerow>			
+			<text>Glub Glub Btchs</text>			
+		</card>
+<card>			
+			<name>The Plentiful Eidolon</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>2G</manacost>			
+			<cmc>3</cmc>			
+			<color>G</color>			
+			<type>Legendary Enchantment Creature — Dragon</type>			
+			<pt>1/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> For all you red green color blind people unfortunate enough to play magic with your condition, let me clarify this card. It's more green than you will ever see.</text>			
+		</card>
+<card>			
+			<name>Doubleday Reflector</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>1UR</manacost>			
+			<cmc>3</cmc>			
+			<color>UR</color>			
+			<type>Legendary Creature — Reflection</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text> .emit ruoy htiw esle gnihtemos od ,efil on evah uoY</text>			
+		</card>
+<card>			
+			<name>Fabricated Nature</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>CGU</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Legendary Artifact Creature — Beast</type>			
+			<pt>1/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>Vigilance
+When Fabricated Nature enters the battlefield, create a 3/3 Beast token for each time it has been cast form the command zone.</text>			
+		</card>	
+<card>			
+			<name>It That Lurks in the Deep</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>7UB</manacost>			
+			<cmc>9</cmc>			
+			<color>UB</color>			
+			<type>Legendary Creature — Leviathan</type>			
+			<pt>9/9</pt>			
+			<tablerow>2</tablerow>			
+			<text>Islandwalk
+You may cast It That Lurks in the Deep or other creature cards exiled with it from exile.
+When It That Lurks in the Deep enters the battlefield, exile all other creatres until it leaves the battlefield.
+{U}, Sacrifice a land: You may put It That Lurks in the Deep from your hand or command zone into exile.</text>			
+		</card>	
+<card>			
+			<name>Elazar World Eater</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2RR</manacost>			
+			<cmc>4</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Elemental</type>			
+			<pt>4/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Haste, trample
+Whenever Elazar, World Eater attacks, sacrifice any number of lands, Elementals you control get +1/+1 until end of turn for each land sacrificed this way.</text>			
+		</card>	
+<card>			
+			<name>Joutu Spell-Swallower</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>5WU</manacost>			
+			<cmc>7</cmc>			
+			<color>WU</color>			
+			<type>Legendary Creature — Bird Wizard</type>			
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>			
+			<text>Undaunted
+Indestructible, flying
+Whenever a player casts an instant or sorcery spell that targets only a single creature, copy that spell for each opponent. Those copies target Joutu, Spell-Swallower</text>			
+		</card>	
+<card>			
+			<name>Gort the Lonely</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2BR</manacost>			
+			<cmc>4</cmc>			
+			<color>BR</color>			
+			<type>Legendary Creature — Goblin</type>			
+			<pt>0/1</pt>			
+			<tablerow>2</tablerow>			
+			<text>{1}, {T}: Gort, the Lonely deals 1 damage to you.
+If a source you control deals damage that would reduce your life total to less than 1, you win the game.</text>			
+		</card>	
+<card>			
+			<name>Elmon the Envious</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>GUB</manacost>			
+			<cmc>3</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature — Elf</type>			
+			<pt>3/3</pt>			
+			<tablerow>2</tablerow>			
+			<text>Menace
+At the beginning of your end step, put a corruption counter on another target creature that doesn't have a corruption counter on it.
+Creatures with corruption counters on them are lands with"{T}:Add one mana of any type a land you control could produce."</text>			
+		</card>	
+<card>			
+			<name>Ankou Merciless Reaper</name>			
+			<set picURL="" rarity="Rare">COM</set>			
+			<manacost>4RB</manacost>			
+			<cmc>6</cmc>			
+			<color>RB</color>			
+			<type>Legendary Planeswalker — Ankou</type>			
+			<pt></pt>
+			<loyalty>0</loyalty>			
+			<tablerow>2</tablerow>			
+			<text>Ankou, Merciless Reaper enters the battlefield with a number of loyalty ounters equal to your starting life total minus your life total.
+Ankou, Merciless Reaper can be your commander.
+-X:Each player mills X and loses X life.
+-11: Return target creature from a graveyard to the battlefield, it gains haste.
+-31: Create The End, a black legendary enchantment with Vanishing 3 and "When this permanent leaves the battlefield, choose a player, that player loses the game."</text>			
+		</card>	
+<card>			
+			<name>Herald of Intent</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3BB</manacost>			
+			<cmc>5</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Demon</type>			
+			<pt>4/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Flying
+Whenever Herald of Intent attacks, search your library for a card and put that card into your hand. Then shuffle your library.</text>			
+		</card>	
+<card>			
+			<name>Shimuari Dragon Soul</name>			
+			<set picURL="" rarity="mythic">COM</set>			
+			<manacost>3UU</manacost>			
+			<cmc>5</cmc>			
+			<color>U</color>			
+			<type>Legendary Planeswalker — Shimuari</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>
+			<loyalty>7</loyalty>			
+			<text>+3:Draw three cards, then put two cards from your hand on the bottom of your library.
++1:For each opponent, up to two target creatures they control get -2/-0 until your next turn.
+-12: You get an emblem with, "Whenever you draw a card, return target nonland permanent to its owner's hand." Then draw a card for each opponent.
+Creatures that attack Shimuari cannot be blocked.
+Shimuari, Dragon Soul can be your commander.</text>			
+		</card>	
+<card>			
+			<name>Captain Ronwell</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1W</manacost>			
+			<cmc>2</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Human Soldier</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Whenever one or more +1/+1 counters are placed on Captain Ronwell, create that many 1/1 white Soldier creature tokens. This ability can only trigger once per turn.</text>			
+		</card>	
+<card>			
+			<name>Legion Cryptkeeper</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>B</manacost>			
+			<cmc>1</cmc>			
+			<color>B</color>			
+			<type>Legendary Creature — Zombie Cleric</type>			
+			<pt>3/2</pt>			
+			<tablerow>2</tablerow>			
+			<text>Break {T}: Legion Cryptkeeper enters the battlefield tapped, and doesn't untap during your untap step.
+Break {4}{B}: Creatures can't enter the battlefield from your graveyard.
+Whenever Legion Cryptkeeper becomes tapped, return a creature from your graveyard to the battlefield.</text>			
+		</card>	
+<card>			
+			<name>Heart Soul</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color>RW</color>			
+			<type>Token Legendary Artifact — Equipment</type>			
+			<pt></pt>			
+			<tablerow>2</tablerow>			
+			<text>Indestructible
+Equip 1
+Imbued — Equipped creature gains all abilities chosen with Sebastian, Forgemaster.       </text>			
+		</card>	
+<card>			
+			<name>Sebastian Forgemaster</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1RW</manacost>			
+			<cmc>3</cmc>			
+			<color>RW</color>			
+			<type>Legendary Creature — Human Artificer</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>
+			<related>Heart Soul</related>		
+			<text>When Sebastian, Forgemaster enters the battlefield, create Heart Soul, a legendary colorless Equipment artifact token with indestructible and equip 1.
+Imbue—At the beginning of your end step, choose +1/+1, trample, flying, lifelink, first strike, or hexproof. Heart and Soul gains “Equipped creature gains the chosen ability.”</text>			
+		</card>
+<card>			
+			<name>Tinthal Blessed</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3WW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Rather than pay 2 for each previous time you’ve cast this spell from the command zone this game, you may pay W that many times.
+Lifelink
+For each 2 in a cost, you may pay W rather than pay that mana.</text>			
+		</card>
+<card>			
+			<name>Jon Salis, Herald of the Gods</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>8</manacost>			
+			<cmc>8</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Human Cleric</type>			
+			<pt>2/2</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Eminence — As long as Jon Salis, Herald of the Gods is in the command zone, other God cards you cast cost 1 less, and count as creatures.
+Jon Salis, Herald of the Gods counts as all colors.
+If you control 5 non-token God creatures without Changeling, you win the game.</text>			
+		</card>
+<card>			
+			<name>Ur-Dragon, Hordemaster</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4WUBRG</manacost>			
+			<cmc>9</cmc>			
+			<color>WUBRG</color>			
+			<type>Legendary Creature — Dragon Avatar</type>			
+			<pt>10/10</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Flying
+When Ur-Dragon, Hordemaster attacks, you may search your library for a Dragon card and put it on the battlefield tapped and attacking. Then shuffle your library.</text>			
+		</card>
+<card>			
+			<name>NT-AE-409, Overhaul Bot</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4C</manacost>			
+			<cmc>5</cmc>			
+			<color>C</color>			
+			<type>Legendary Planeswalker — NT-AE-409</type>			
+			<pt>4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>+2 - Add CC to your mana pool.
++2 Another target permanent gains indestructible until your next turn.
+NT-Æ-409, Overhaul Bot may be your commander.</text>			
+		</card>
+<card>			
+			<name>Jin Fura, the Paramount</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2WWW</manacost>			
+			<cmc>5</cmc>			
+			<color>W</color>			
+			<type>Legendary Creature — Lion</type>			
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 6W - Whenever another player casts a spell, you may cast a spell of lesser mana value from your hand without paying it’s mana cost.
+				Break 6W - You decide each player’s attacking and blocking creatures during each combat phase.
+				Flying, Vigilance</text>			
+		</card>
+<card>			
+			<name>Rinstha, Ichor-blooded</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>G/B</manacost>			
+			<cmc>1</cmc>			
+			<color>GB</color>			
+			<type>Legendary Creature — Elf Zombie</type>			
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 4G: At the beginning of your upkeep, you get a poison counter.
+				Break 4B: Whenever a creature dies, you get a poison counter.
+				Infect</text>			
+		</card>
+<card>			
+			<name>Ulbarrein, Born of Roots</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3GR</manacost>			
+			<cmc>5</cmc>			
+			<color>GR</color>			
+			<type>Legendary Creature — Dragon</type>			
+			<pt>5/5</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break T: Ulbarrein, Born of Roots can’t block, and loses flying. (+5/+5)
+				Break T: Ulbarrein, Born of Roots can’t attack, and loses flying. (+5/+5)
+				Flying, Trample</text>			
+		</card>
+<card>			
+			<name>Gin and Hena, Twin Wizards</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2GU</manacost>			
+			<cmc>4</cmc>			
+			<color>GU</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>2/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Bind Y: Exile a nonland permanent you control from the battlefield or your hand. Y is that cards mana cost.
+				Bind Y: X is 0
+				X, T: Create a token copy of the exiled card. X is that cards mana cost.</text>			
+		</card>
+<card>			
+			<name>Jin Jonah, Torchbearer</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>RRR</manacost>			
+			<cmc>3</cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Human Wizard</type>			
+			<pt>1/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>When a source you control would deal damage, you may instead Charge-up. (Give this card that many charge counters.)
+R, remove X charge counters: Deal X damage to any target.</text>			
+		</card>
+<card>			
+			<name>Arwyl, the Imagined</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>2WG</manacost>			
+			<cmc>4</cmc>			
+			<color>WG</color>			
+			<type>Legendary Creature — Dragon Illusion</type>			
+			<pt>0/2</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>3, Discard two cards: Shuffle Arwyl, the Imagined into your library. Until Arwyl enters another zone, when you would draw a card, you may instead scry 5.</text>			
+		</card>
+<card>			
+			<name>Nid-Zanith, Lustful for Life</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>1WB</manacost>			
+			<cmc>3</cmc>			
+			<color>WB</color>			
+			<type>Legendary Creature — Skeleton</type>		
+			<pt>2/3</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Vigilance, Haste, Persist
+When Nid-Zanith, Lustful for Life enters your hand, library, command zone, graveyard, or exile, you may pay it’s mana cost. If you do, put Nid-Zanith, Lustful for Life on the battlefield.</text>			
+		</card>
+<card>			
+			<name>Skinbasin Atog</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>3RG</manacost>			
+			<cmc>5</cmc>			
+			<color>RG</color>			
+			<type>Legendary Creature — Atog</type>		
+			<pt>3/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>0: Skinbasin Atog gets a +1/+1 counter. You skip your next untap, draw, combat, or main phases. You may activate up to four times each turn.</text>			
+		</card>
+<card>			
+			<name>Sona, Exquisite Angel</name>			
+			<set picURL="" rarity="rare">COM</set>			
+			<manacost>4RW</manacost>			
+			<cmc>6</cmc>			
+			<color>RW</color>			
+			<type>Legendary Artifact Creature — Angel</type>		
+			<pt>6/4</pt>			
+			<tablerow>2</tablerow>
+			<!-- <related>Heart Soul</related>		 -->
+			<text>Break 4C:You may only break if you control 6 or more artifacts.
+				Break 6C:As an additional cost to break, sacrifice 4 permanents.
+			Flying, Double strike
+T: Target player loses the game. You may only use this ability if you’ve broken twice.</text>			
+		</card>
+	</cards>	
+</cockatrice_carddatabase>
