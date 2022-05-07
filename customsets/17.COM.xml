@@ -1269,5 +1269,35 @@ When Nid-Zanith, Lustful for Life enters your hand, library, command zone, grave
 			Flying, Double strike
 T: Target player loses the game. You may only use this ability if you’ve broken twice.</text>			
 		</card>
+		<card>			
+			<name>Heth Accursed</name>			
+			<set picURL="" rarity="Mythic">COM</set>			
+			<manacost>XUUBB</manacost>			
+			<cmc>4</cmc>			
+			<color>UB</color>			
+			<type>Legendary Creature — Human Assassin</type>		
+			<pt>4/4</pt>			
+			<tablerow>2</tablerow>
+			<related>Bemloch Unchained</related>
+			<text>Break 10: Whenever a player casts a spell, remove a soul counter. Then if there are no more soul counters on Heth, transform it.
+				Heth, Accursed enters the battlefield with a number of soul counters equal to the mana spent to cast it.
+				Unblockable
+				At the beginning of your end step, if Heth, Accursed dealt combat damage to a player this turn, create a black enchantment curse token with “Enchant player; Enchanted player takes double combat damage,” then attach it to that player.
+				</text>			
+		</card>
+				<card>			
+			<name>Bemloch Unchained</name>			
+			<set picURL="" rarity="Mythic">COM</set>			
+			<manacost></manacost>			
+			<cmc></cmc>			
+			<color>R</color>			
+			<type>Legendary Creature — Demon</type>		
+			<pt>10/10</pt>			
+			<tablerow>2</tablerow>
+			<related>Heth Accursed</related>
+			<text>Bemloch, Unchained cannot be sacrificed, and must attack each combat if able.
+				Whenever Bemloch, Unchained deals combat damage to a player, prevent that damage. Bemloch, Unchained deals that much damage to you.
+				</text>			
+		</card>
 	</cards>	
 </cockatrice_carddatabase>
